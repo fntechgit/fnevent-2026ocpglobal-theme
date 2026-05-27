@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: Travel
+title: TRAVEL
 userRequirement: NONE
 ---
 OCP has expanded the hotel options for attendees. Please be sure to use the official links below when booking your hotel for the Global Summit.
