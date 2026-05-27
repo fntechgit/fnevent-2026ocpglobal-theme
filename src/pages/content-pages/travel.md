@@ -6,7 +6,7 @@ userRequirement: NONE
 OCP has expanded the hotel options for attendees. Please be sure to use the official links below when booking your hotel for the Global Summit.
 
 \
-*OCP will never email you directly with hotel deals or special rates."
+*OCP will never email you directly with hotel deals or special rates.
 
 **<br/>**
 
@@ -83,8 +83,6 @@ Rate: $499
 Cut off date: 9/11
 
 <br/>
-
-
 
 <a href="https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/16dc59718e8d5afa16e076d48441bd7a3c0eec95.pdf" target="_blank" rel="noopener noreferrer">Click here</a> for a full list of nearby hotels. (Please note: OCP only has blocks at the ones listed above.)
 
