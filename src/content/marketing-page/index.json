@@ -38,7 +38,7 @@
     },
     "image": {
       "display": true,
-      "title": "Image",
+      "title": "",
       "image": {
         "src": "ocp26g-fnv-hlschedule-v1.jpg"
       }
