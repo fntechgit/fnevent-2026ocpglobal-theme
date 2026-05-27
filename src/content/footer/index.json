@@ -1,56 +1,5 @@
 {
-  "columns": [
-    {
-      "title": "The Event",
-      "display": true,
-      "items": [
-        {
-          "title": "All Projects",
-          "link": "/footer-content/"
-        },
-        {
-          "title": "Host a project",
-          "link": "/footer-content/"
-        },
-        {
-          "title": "Services",
-          "link": "/footer-content/"
-        }
-      ]
-    },
-    {
-      "title": "The Vision",
-      "display": true,
-      "items": [
-        {
-          "title": "About",
-          "link": "/footer-content/"
-        },
-        {
-          "title": "Supporters",
-          "link": "/footer-content/"
-        }
-      ]
-    },
-    {
-      "title": "Membership",
-      "display": false,
-      "items": [
-        {
-          "title": "Corporate members",
-          "link": "/footer-content/"
-        },
-        {
-          "title": "Join us",
-          "link": "/footer-content/"
-        },
-        {
-          "title": "Services",
-          "link": "/footer-content/"
-        }
-      ]
-    }
-  ],
+  "columns": [],
   "logo": {
     "display": false
   },
@@ -59,18 +8,18 @@
     "display": true,
     "networks": [
       {
+        "icon": "fa-facebook",
+        "link": "https://www.facebook.com/groups/opencompute/",
+        "display": true
+      },
+      {
         "icon": "fa-x-twitter",
-        "link": "/footer-content/",
+        "link": "https://twitter.com/Opencomputeprj/",
         "display": true
       },
       {
         "icon": "fa-linkedin",
-        "link": "/footer-content/",
-        "display": true
-      },
-      {
-        "icon": "fa-facebook",
-        "link": "/footer-content/",
+        "link": "https://www.linkedin.com/company/open-compute-project-foundation/",
         "display": true
       }
     ]
