@@ -1,6 +1,7 @@
 ---
 templateKey: content-page
-title: Registration
+title: REGISTRATION
+slug: ""
 userRequirement: NONE
 ---
 [](<>)[](<>)
