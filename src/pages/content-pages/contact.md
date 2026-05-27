@@ -1,7 +1,7 @@
 ---
 templateKey: content-page
+title: CONTACT
 userRequirement: NONE
-title: Contact
 ---
 YOU DECIDE!
 
