@@ -50,7 +50,8 @@
         "size": 2,
         "images": [
           {
-            "src": "ocp26g-fnv-marketing-space1.png"
+            "src": "ocp26g-fnv-marketing-space1.png",
+            "link": "https://www.opencompute.org/summit/global-summit/theme"
           }
         ]
       },
@@ -59,7 +60,8 @@
         "size": 1,
         "images": [
           {
-            "src": "ocp26g-fnv-marketing-space2.png"
+            "src": "ocp26g-fnv-marketing-space2.png",
+            "link": "https://www.opencompute.org/membership/how-to-join"
           }
         ]
       },
@@ -68,7 +70,8 @@
         "size": 1,
         "images": [
           {
-            "src": "ocp26g-fnv-marketing-space3.png"
+            "src": "ocp26g-fnv-marketing-space3.png",
+            "link": "https://www.opencompute.org/events/past-events/2026-ocp-emea-summit"
           }
         ]
       },
