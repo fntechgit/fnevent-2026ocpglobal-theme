@@ -1,9 +1,9 @@
 {
   "hero": {
-    "title": "TIER 1 - EVENT NAME HERE",
-    "date": "Date Information",
+    "title": "2026 OCP Global Summit",
+    "date": "October 12–15, 2026",
     "dateLayout": true,
-    "time": "Timezone",
+    "time": "",
     "buttons": {
       "registerButton": {
         "text": "Register Now",
