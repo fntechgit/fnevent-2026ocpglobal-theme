@@ -5,27 +5,6 @@
       "providerLabel": "Continue with FNid",
       "providerLogo": "logo_fn.svg",
       "providerLogoSize": 27
-    },
-    {
-      "buttonColor": "#0A66C2",
-      "providerLabel": "Sign in with LinkedIn",
-      "providerParam": "linkedin",
-      "providerLogo": "logo_linkedin.svg",
-      "providerLogoSize": 18
-    },
-    {
-      "buttonColor": "#000000",
-      "providerLabel": "Sign in with Apple",
-      "providerParam": "apple",
-      "providerLogoSize": 17,
-      "providerLogo": "logo_apple.svg"
-    },
-    {
-      "buttonColor": "#1877F2",
-      "providerLabel": "Login with Facebook",
-      "providerParam": "facebook",
-      "providerLogo": "logo_facebook.svg",
-      "providerLogoSize": 20
     }
   ],
   "widgets": {
@@ -43,5 +22,24 @@
     "enabled": false,
     "title": "Site under maintenance",
     "subtitle": "Please reload page shortly"
+  },
+  "siteMetadata": {
+    "title": "2026 OCP Global Summit",
+    "description": "At the 2026 Global Summit, industry leaders, researchers and pioneers from the open community will engage in dynamic dialogues, enlightening workshops, and interactive engineering sessions. These activities are designed to expand our understanding of the progress that our Projects have made as well as the challenges and road ahead. Participants will explore emerging trends, tackle complex challenges and discover new opportunities to drive global innovation. Through this collaborative spirit, we aim to accelerate the development of efficient, scalable, and sustainable open compute solutions that power the future of technology.",
+    "image": "ocp26g-fnv-favicon-260.png"
+  },
+  "favicon": {
+    "asset": "ocp26g-fnv-favicon-260.png"
+  },
+  "siteFont": {
+    "fontFamily": "Franklin Gothic",
+    "regularFont": {
+      "fontFile": "/static/fonts/franklingothic-book.ttf",
+      "fontFormat": "ttf"
+    },
+    "boldFont": {
+      "fontFile": "/static/fonts/franklingothic-medium.ttf",
+      "fontFormat": "ttf"
+    }
   }
 }
