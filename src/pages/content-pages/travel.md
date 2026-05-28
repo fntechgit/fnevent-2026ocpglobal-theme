@@ -156,31 +156,31 @@ Rate: $389
 
 Cut off date: 9/18
 <br/>
-**<a href="https://app.marriott.com/reslink?id=1777939312500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">RESIDENCE INN</a>** 
+**<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1771454194040&key=GRP&app=resvlink&_branch_match_id=1461145332080561431&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uaGJqYmhpYmBiYFadmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioAn7iyqWAAAAA%3D" target="_blank" rel="noopener noreferrer">RESIDENCE INN</a>** 
 
 Rate: $319
 
 Cut off date: 9/18
 <br/>
-**<a href="https://app.marriott.com/reslink?id=1777939312500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">FAIRFIELD INN – SAN JOSE</a>** 
+**<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1771454251313&key=GRP&app=resvlink&_branch_match_id=1461145332080561431&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uaGJqYmRqaGxobFadmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioAq%2Foq0WAAAAA%3D" target="_blank" rel="noopener noreferrer">FAIRFIELD INN – SAN JOSE</a>** 
 
 Rate: $319
 
 Cut off date: 9/18
 <br/>
-**<a href="https://app.marriott.com/reslink?id=1777939312500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">HYATT HOUSE</a>** 
+**<a href="https://www.hyatt.com/shop/rooms/sjcxj?location=Hyatt%20House%20San%20Jose%2FSilicon%20Valley&checkinDate=2026-10-11&checkoutDate=2026-10-16&rooms=1&adults=1&kids=0&corp_id=g-ocpf" target="_blank" rel="noopener noreferrer">HYATT HOUSE</a>** 
 
 Rate: $279
 
 Cut off date: 9/18
 <br/>
-**<a href="https://app.marriott.com/reslink?id=1777939312500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">SPARK BY HILTON</a>** 
+**<a href="https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=SJCPEPE&arrivalDate=2026-10-11&departureDate=2026-10-16&groupCode=909&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink" target="_blank" rel="noopener noreferrer">SPARK BY HILTON</a>** 
 
 Rate: $219
 
 Cut off date: 9/18
 <br/>
-**<a href="https://app.marriott.com/reslink?id=1777939312500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">DOUBLETREE BY HILTON</a>** 
+**<a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fbook.passkey.com%2fgo%2fOCPGlobalSummit2026&c=E,1,Wf-3T2OVyct8WaF75CjBK8E7FniD0n7rYXCsyq6Z0KtN1BxgP9wCLY69aCsTa__6nPKs21ypAztNvKPGBRt-AfqpPnzIZ35x6KqBdDDRJSWDMQR1TmXbMg,,&typo=1" target="_blank" rel="noopener noreferrer">DOUBLETREE BY HILTON</a>** 
 
 Rate: $319
 
