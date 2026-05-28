@@ -83,7 +83,74 @@ Rate: $499
 Cut off date: 9/11
 
 <br/>
+[](<>)**<a href=" " target="_blank" rel="noopener noreferrer">HAYES MANSION</a>** 
 
+Rate: $309
+
+Cut off date: 9/11
+<br/>
+**<a href=" " target="_blank" rel="noopener noreferrer">AC HOTEL</a>** 
+
+Rate: $539
+
+Cut off date: 9/11
+<br/>
+**<a href=" " target="_blank" rel="noopener noreferrer">HOTEL DE ANZA</a>** 
+
+Rate: $375
+
+Cut off date: 10/1
+<br/>
+**<a href=" " target="_blank" rel="noopener noreferrer">COURTYARD SAN JOSE NORTH/SILICON VALLEY</a>** 
+
+Rate: $289
+
+Cut off date: 9/18
+
+<br/>
+**<a href=" " target="_blank" rel="noopener noreferrer">SONESTA SELECT</a>** 
+
+Rate: $129
+
+Cut off date: 9/18
+<br/>
+**<a href=" " target="_blank" rel="noopener noreferrer">RESIDENCE INN SAN JOSE AIRPORT</a>** 
+
+Rate: $324
+
+Cut off date: 9/18
+<br/>
+**<a href=" " target="_blank" rel="noopener noreferrer">SPRINGHILL SUITES</a>** 
+
+Rate: $314
+
+Cut off date: 9/18
+<br/>
+**<a href=" " target="_blank" rel="noopener noreferrer">HOMEWOOD SUITES</a>** 
+
+Rate: $264
+
+Cut off date: 9/18
+<br/>
+**<a href=" " target="_blank" rel="noopener noreferrer">HAMPTON INN</a>** 
+
+Rate: $179
+
+Cut off date: 9/18
+<br/>
+**<a href=" " target="_blank" rel="noopener noreferrer">HOLIDAY INN</a>** 
+
+Rate: $164
+
+Cut off date: 9/18
+<br/>
+**<a href=" " target="_blank" rel="noopener noreferrer">FAIRFIELD INN</a>** 
+
+Rate: $279
+
+Cut off date: 9/18
+
+<br/>
 <a href="https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/16dc59718e8d5afa16e076d48441bd7a3c0eec95.pdf" target="_blank" rel="noopener noreferrer">Click here</a> for a full list of nearby hotels. (Please note: OCP only has blocks at the ones listed above.)
 
 <br/>
