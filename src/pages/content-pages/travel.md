@@ -149,7 +149,42 @@ Cut off date: 9/18
 Rate: $279
 
 Cut off date: 9/18
+<br/>
+**<a href="https://app.marriott.com/reslink?id=1777939312500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">TOWNEPLACE SUITES</a>** 
 
+Rate: $389
+
+Cut off date: 9/18
+<br/>
+**<a href="https://app.marriott.com/reslink?id=1777939312500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">RESIDENCE INN</a>** 
+
+Rate: $319
+
+Cut off date: 9/18
+<br/>
+**<a href="https://app.marriott.com/reslink?id=1777939312500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">FAIRFIELD INN – SAN JOSE</a>** 
+
+Rate: $319
+
+Cut off date: 9/18
+<br/>
+**<a href="https://app.marriott.com/reslink?id=1777939312500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">HYATT HOUSE</a>** 
+
+Rate: $279
+
+Cut off date: 9/18
+<br/>
+**<a href="https://app.marriott.com/reslink?id=1777939312500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">SPARK BY HILTON</a>** 
+
+Rate: $219
+
+Cut off date: 9/18
+<br/>
+**<a href="https://app.marriott.com/reslink?id=1777939312500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">DOUBLETREE BY HILTON</a>** 
+
+Rate: $319
+
+Cut off date: 9/18
 <br/>
 <a href="https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/16dc59718e8d5afa16e076d48441bd7a3c0eec95.pdf" target="_blank" rel="noopener noreferrer">Click here</a> for a full list of nearby hotels. (Please note: OCP only has blocks at the ones listed above.)
 
