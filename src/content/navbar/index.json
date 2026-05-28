@@ -7,7 +7,8 @@
       ],
       "showOnlyAtShowTime": false,
       "title": "HOME",
-      "link": "/"
+      "link": "/",
+      "display": true
     },
     {
       "userRequirement": "NONE",
@@ -16,7 +17,8 @@
       ],
       "showOnlyAtShowTime": false,
       "title": "REGISTRATION",
-      "link": "/registration"
+      "link": "/registration",
+      "display": true
     },
     {
       "userRequirement": "NONE",
@@ -25,7 +27,8 @@
       ],
       "showOnlyAtShowTime": false,
       "title": "TRAVEL",
-      "link": "/travel"
+      "link": "/travel",
+      "display": true
     },
     {
       "title": "SCHEDULE",
@@ -89,7 +92,8 @@
       ],
       "showOnlyAtShowTime": false,
       "title": "FAQ",
-      "link": "/faq"
+      "link": "/faq",
+      "display": true
     }
   ]
 }
