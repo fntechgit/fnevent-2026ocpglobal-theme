@@ -49,18 +49,18 @@ A. Please visit [this page](<>).
 
 **Q. I’m having trouble with my FNid. Who should I contact?**
 
-A. For tech support, please email [support@fntech.com](<>)
+A. For tech support, please email [support@fntech.com](mailto:support@fntech.com)
 
 **Q. I’m having trouble registering for an event. Who should I contact?**
 
-A. For FNregistration support, please email [registration@opencompute.org](<>)
+A. For FNregistration support, please email [registration@opencompute.org](mailto:registration@opencompute.org)
 
 **Q. I’m looking for my “ticket” to an event. Where can I find this?**
 
 A. After you registered/purchased your ticket, you received two emails: (1) an Order Confirmation email (confirming your order was processed), and (2) a Ticket email (that contained your ticket(s) information).
 
-* If you do not see your Order Confirmation or Ticket email in your inbox, please check your junk/spam folder for an email from [registration@opencompute.org](<>).
-* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2026ocpglobal.fnvirtual.app](<>)[](<>). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use the email address associated with your order. 
+* If you do not see your Order Confirmation or Ticket email in your inbox, please check your junk/spam folder for an email from [registration@opencompute.org](mailto:registration@opencompute.org).
+* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2026ocpglobal.fnvirtual.app](https://2026ocpglobal.fnvirtual.app)[](<>). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use the email address associated with your order. 
 * If you are physically at the event, please visit the Registration desk. Simply enter your email address or name on the iPad. The system will find your ticket, ask you to finish answering any mandatory questions, and then print your badge.
 * For additional Registration support, please email [registration@opencompute.org](<>)
 
@@ -69,8 +69,8 @@ A. After you registered/purchased your ticket, you received two emails: (1) an O
 A. You can access your order from the Order Confirmation email you received at the address you provided during the registration process.
 
 * If you don’t remember receiving your Order Confirmation email, please check your Junk folder for an email from [registration@opencompute.org](<>)
-* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2026ocpglobal.fnvirtual.app](<>)[](<>)[](<>). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use this email address. 
-* For additional FNregistration support, please email [registration@opencompute.org](<>)
+* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2026ocpglobal.fnvirtual.app](https://2026ocpglobal.fnvirtual.app)[](<>)[](<>). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use this email address. 
+* For additional FNregistration support, please email [registration@opencompute.org](mailto:registration@opencompute.org)
 
 **Q. The event webpage isn’t loading for me. What should I do?**
 
@@ -78,7 +78,7 @@ A. First, log out of the website and log back in using your FNid, social authori
 
 * Next, you may need to clear your cache. Websites often ‘cache’ information so they load faster the next time you visit. This can occasionally cause issues, like a ‘white screen’ or an error code.
 * Disable third party cookie blockers, privacy shields, and/or ad blocking plugins
-* If you are still having trouble, please email [support@fntech.com](<>) and provide the following info: (1) the browser and browser version you are using, (2) what page you’re having trouble with, and (3) the event you are trying to access.
+* If you are still having trouble, please email [support@fntech.com](mailto:support@fntech.com) and provide the following info: (1) the browser and browser version you are using, (2) what page you’re having trouble with, and (3) the event you are trying to access.
 
 **Q. How do I add a session to my agenda or “My Schedule”?**
 
@@ -97,4 +97,4 @@ A. Once you're logged into the Summit Platform, simply click the "My Profile" ic
 
 **Q. I’m interested in using FNvirtual for an event. Who should I contact?**
 
-A. Please email [govirtual@fntech.com](<>). We’d love to collaborate with you!
+A. Please email [govirtual@fntech.com](mailto:govirtual@fntech.com). We’d love to collaborate with you!
