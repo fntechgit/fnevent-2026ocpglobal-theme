@@ -16,7 +16,7 @@ San Jose, CA 95113
 
 <br/>
 
-Looking for things to do in San Jose? Visit their [travel page](<>)!
+Looking for things to do in San Jose? Visit their [travel page](https://www.sanjose.org/things-to-do)!
 
 <br/>**Nearby Airports**
 
@@ -32,7 +32,7 @@ SFO - San Francisco International Airport
 
 **Parking**
 
-Click here for information and pricing on for parking at the Convention Center.
+[Click here](https://www.sanjose.org/pdf/convention-center-parking) for information and pricing on for parking at the Convention Center.
 
 **<br/>**
 
