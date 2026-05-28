@@ -46,4 +46,4 @@ Change of plans? Your can transfer your registration ticket to someone else bef
 
 Badge sharing/swapping/trading is considered theft and is strictly prohibited at OCP events. Attendees must wear their badge at all times on the event premises and that badge must match their ID. Any attendee caught without a badge will be escorted to registration to show an ID and charged a reprint fee if the badge cannot be found. If caught wearing another attendee's badge or leaving the premises with multiple badges with the intent to distribute to other attendees, all badges will be confiscated and this person may be removed from the event. OCP keeps historical records of companies and sponsors who are regular offenders of badge sharing/swapping/trading. OCP reserves the right to deny attendance, sponsorship, and speaking opportunities to any individuals or organizations that do not abide by OCP event regulations.
 
-[Click here](<>) to view the OCP event Terms and Conditions (PDF)
+[Click here](https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/9c1c5916072b8e33fdbba2537947b86c768372f3.pdf) to view the OCP event Terms and Conditions (PDF)
