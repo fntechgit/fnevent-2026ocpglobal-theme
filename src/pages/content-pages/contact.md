@@ -5,19 +5,19 @@ userRequirement: NONE
 ---
 ###### Email OCP for questions regarding:
 
-OCP Membership: [membership@opencompute.org](<>)
+OCP Membership: [membership@opencompute.org](mailto:membership@opencompute.org)
 
-OCP Solution Provider Program: [solutionproviders@opencompute.org](<>)
+OCP Solution Provider Program: [solutionproviders@opencompute.org](mailto:solutionproviders@opencompute.org)
 
-Event Sponsorship: [sponsor@opencompute.org](<>)
+Event Sponsorship: [sponsor@opencompute.org](mailto:sponsor@opencompute.org)
 
-Upcoming Events: [events@opencompute.org](<>)
+Upcoming Events: [events@opencompute.org](mailto:events@opencompute.org)
 
-Current Registration for an Event: [registration@opencompute.org](<>)
+Current Registration for an Event: [registration@opencompute.org](mailto:registration@opencompute.org)
 
-Press Inquiries: [press@opencompute.org](<>)
+Press Inquiries: [press@opencompute.org](mailto:press@opencompute.org)
 
-OCP Brand Site: [OCPgear@opencompute.org](<>)
+OCP Brand Site: [OCPgear@opencompute.org](mailto:OCPgear@opencompute.org)
 
 <br/>
 
@@ -32,6 +32,6 @@ Austin, TX 78750
 (281) 667-4644
 
 
-**Event Tech Support:** [](<>)[support@fntech.com](<>)
+**Event Tech Support:** [](<>)[support@fntech.com](mailto:support@fntech.com)
 
-**Event Registration Issues:** [](<>)[registration@opencompute.org](<>)
+**Event Registration Issues:** [](<>)[registration@opencompute.org](mailto:registration@opencompute.org)
