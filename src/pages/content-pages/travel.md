@@ -46,7 +46,7 @@ Cut off date: 9/18
 
 [](<>)**<a href="https://www.hyatt.com/events/en-US/group-booking/SJCZJ/G-OC26" target="_blank" rel="noopener noreferrer">HYATT PLACE</a>** [](<>)
 
-Rate: $359
+Rate: $321
 
 Cut off date 9/18 
 
