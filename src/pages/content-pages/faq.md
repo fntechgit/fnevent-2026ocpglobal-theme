@@ -62,13 +62,13 @@ A. After you registered/purchased your ticket, you received two emails: (1) an O
 * If you do not see your Order Confirmation or Ticket email in your inbox, please check your junk/spam folder for an email from [registration@opencompute.org](mailto:registration@opencompute.org).
 * Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2026ocpglobal.fnvirtual.app](https://2026ocpglobal.fnvirtual.app)[](<>). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use the email address associated with your order. 
 * If you are physically at the event, please visit the Registration desk. Simply enter your email address or name on the iPad. The system will find your ticket, ask you to finish answering any mandatory questions, and then print your badge.
-* For additional Registration support, please email [registration@opencompute.org](<>)
+* For additional Registration support, please email [registration@opencompute.org](mailto:registration@opencompute.org)
 
 **Q. I’m looking for my event order. Where can I find this?**
 
 A. You can access your order from the Order Confirmation email you received at the address you provided during the registration process.
 
-* If you don’t remember receiving your Order Confirmation email, please check your Junk folder for an email from [registration@opencompute.org](<>)
+* If you don’t remember receiving your Order Confirmation email, please check your Junk folder for an email from [registration@opencompute.org](mailto:registration@opencompute.org)
 * Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2026ocpglobal.fnvirtual.app](https://2026ocpglobal.fnvirtual.app)[](<>)[](<>). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use this email address. 
 * For additional FNregistration support, please email [registration@opencompute.org](mailto:registration@opencompute.org)
 
