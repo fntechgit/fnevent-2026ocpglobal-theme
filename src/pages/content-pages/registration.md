@@ -48,6 +48,3 @@ Badge sharing/swapping/trading is considered theft and is strictly prohibited at
 
 
 <a href="https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/9c1c5916072b8e33fdbba2537947b86c768372f3.pdf" target="_blank" rel="noopener noreferrer">Click here</a> to view the OCP event Terms and Conditions (PDF)
-
-
-[Click here](https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/9c1c5916072b8e33fdbba2537947b86c768372f3.pdf) Click here to view the OCP event Terms and Conditions (PDF)
