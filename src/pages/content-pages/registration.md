@@ -20,13 +20,13 @@ We appreciate your interest and support in the OCP Global Summit and we look for
 
 **<br/>Registration Options**
 
-Pre-Sale Registration: Members & Sponsors	Early Rate	$800	June 3 - July 17
+Pre-Sale Registration: Members & Sponsors - $800	June 3 - July 17
 
-Early Registration: Public	Early Rate	$800	July 18 - July 31
+Early Registration: Public - $800	July 18 - July 31
 
-Standard Registration	Standard Rate	$1,000	August 1 - October 11
+Standard Registration - $1,000	August 1 - October 11
 
-Onsite Registration (If tickets do not sell out prior)	Onsite Rate	$1,300	October 12-15
+Onsite Registration (If tickets do not sell out prior) - $1,300	October 12-15
 
 Registration fees include: Access to all sessions (keynotes, executive sessions, expo hall sessions, breakout sessions), expo hall, Innovation Village, breakfast, lunch, coffee, snack break, receptions, Future Technologies Symposium and access to all official co-located workshops. 
 
