@@ -40,7 +40,7 @@ A. The information you provide as a speaker/presenter through FNspeaker.mgmt wil
 
 **Q. I forgot my FNid login/password. What do I do now?**
 
-A. Please visit [this page](https://2026ocpglobal.fnvirtual.app).
+A. Please visit [this page](https://2026ocpglobal.fnvirtual.app/#login=1).
 
 * Type in your email address (whichever one you used to create your FNid). 
 * Choose “Reset your password” and follow the subsequent instructions.
