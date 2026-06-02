@@ -40,7 +40,7 @@ A. The information you provide as a speaker/presenter through FNspeaker.mgmt wil
 
 **Q. I forgot my FNid login/password. What do I do now?**
 
-A. Please visit [this page](https://2026ocpglobal.fnvirtual.app/#login=1).
+A. Please visit <a href="https://2026ocpglobal.fnvirtual.app/#login=1" target="_blank" rel="noopener noreferrer">this page</a>.
 
 * Type in your email address (whichever one you used to create your FNid). 
 * Choose “Reset your password” and follow the subsequent instructions.
@@ -60,7 +60,7 @@ A. For FNregistration support, please email [registration@opencompute.org](mailt
 A. After you registered/purchased your ticket, you received two emails: (1) an Order Confirmation email (confirming your order was processed), and (2) a Ticket email (that contained your ticket(s) information).
 
 * If you do not see your Order Confirmation or Ticket email in your inbox, please check your junk/spam folder for an email from [registration@opencompute.org](mailto:registration@opencompute.org).
-* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2026ocpglobal.fnvirtual.app](https://2026ocpglobal.fnvirtual.app)[](<>). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use the email address associated with your order. 
+* Alternatively, you can find your ticket in the "My Orders/Tickets" page located in the top nav bar after you log in to <a href="https://2026ocpglobal.fnvirtual.app" target="_blank" rel="noopener noreferrer">2026ocpglobal.fnvirtual.app</a>. You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use the email address associated with your order.
 * If you are physically at the event, please visit the Registration desk. Simply enter your email address or name on the iPad. The system will find your ticket, ask you to finish answering any mandatory questions, and then print your badge.
 * For additional Registration support, please email [registration@opencompute.org](mailto:registration@opencompute.org)
 
@@ -69,7 +69,7 @@ A. After you registered/purchased your ticket, you received two emails: (1) an O
 A. You can access your order from the Order Confirmation email you received at the address you provided during the registration process.
 
 * If you don’t remember receiving your Order Confirmation email, please check your Junk folder for an email from [registration@opencompute.org](mailto:registration@opencompute.org)
-* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to [2026ocpglobal.fnvirtual.app](https://2026ocpglobal.fnvirtual.app)[](<>)[](<>). You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use this email address. 
+* Alternatively, you can find your ticket in the “My Orders/Tickets” page located in the top nav bar after you log in to <a href="https://2026ocpglobal.fnvirtual.app" target="_blank" rel="noopener noreferrer">2026ocpglobal.fnvirtual.app</a>. You will be asked to log in using your FNid, social authorization, or a one-time-use code can be emailed to you. Please be sure to use this email address. 
 * For additional FNregistration support, please email [registration@opencompute.org](mailto:registration@opencompute.org)
 
 **Q. The event webpage isn’t loading for me. What should I do?**
