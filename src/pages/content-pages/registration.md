@@ -16,7 +16,9 @@ OCP Members and current sponsors will receive priority access to registration be
 
 Following the preliminary member and sponsor registration period, remaining tickets will be made available to the public. Registration will officially close once the maximum capacity has been reached. Onsite registration may not be available. We encourage the OCP Community to purchase all tickets needed as early as possible.  
 
-We appreciate your interest and support in the OCP Global Summit and we look forward to another successful show.
+We appreciate your interest and support in the OCP Global Summit and we look forward to another successful show.\
+\
+[Click Here to Register Now](https://2026ocpglobal.fnvirtual.app/#registration=1)
 
 **<br/>Registration Options**
 
@@ -29,6 +31,8 @@ Standard Registration - $1,000	August 1 - October 11
 Onsite Registration (If tickets do not sell out prior) - $1,300	October 12-15
 
 Registration fees include: Access to all sessions (keynotes, executive sessions, expo hall sessions, breakout sessions), expo hall, Innovation Village, breakfast, lunch, coffee, snack break, receptions, Future Technologies Symposium and access to all official co-located workshops. 
+
+[Click Here to Register Now](https://2026ocpglobal.fnvirtual.app/#registration=1)
 
 **<br/>Cancellation Policy**
 
@@ -45,6 +49,5 @@ Change of plans? Your can transfer your registration ticket to someone else bef
 **<br/>Badge Sharing**
 
 Badge sharing/swapping/trading is considered theft and is strictly prohibited at OCP events. Attendees must wear their badge at all times on the event premises and that badge must match their ID. Any attendee caught without a badge will be escorted to registration to show an ID and charged a reprint fee if the badge cannot be found. If caught wearing another attendee's badge or leaving the premises with multiple badges with the intent to distribute to other attendees, all badges will be confiscated and this person may be removed from the event. OCP keeps historical records of companies and sponsors who are regular offenders of badge sharing/swapping/trading. OCP reserves the right to deny attendance, sponsorship, and speaking opportunities to any individuals or organizations that do not abide by OCP event regulations.
-
 
 <a href="https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/9c1c5916072b8e33fdbba2537947b86c768372f3.pdf" target="_blank" rel="noopener noreferrer">Click here</a> to view the OCP event Terms and Conditions (PDF)
