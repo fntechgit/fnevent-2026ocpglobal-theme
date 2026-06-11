@@ -191,7 +191,4 @@ Cut off date: 9/18
 Rate: $319
 
 Cut off date: 9/18
-<br/>
-<a href="https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/16dc59718e8d5afa16e076d48441bd7a3c0eec95.pdf" target="_blank" rel="noopener noreferrer">Click here</a> for a full list of nearby hotels. (Please note: OCP only has blocks at the ones listed above.)
 
-<br/>
