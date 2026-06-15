@@ -42,13 +42,6 @@ OCP has expanded the hotel options for attendees. Please be sure to use the offi
 
 *OCP will never email you directly with hotel deals or special rates.
 <br/>
-**<a href="https://book.passkey.com/gt/220941192?gtid=da860e439e36cc6341fcd1341463e9b7" target="_blank" rel="noopener noreferrer">MARRIOTT</a>** 
-
-Rate: $360
-
-Cut off date: 9/18 
-
-<br/>
 
 [](<>)**<a href="https://www.hyatt.com/events/en-US/group-booking/SJCZJ/G-OC26" target="_blank" rel="noopener noreferrer">HYATT PLACE</a>** [](<>)
 
@@ -191,4 +184,14 @@ Cut off date: 9/18
 Rate: $319
 
 Cut off date: 9/18
+
+<br/>
+
+**<a href="https://book.passkey.com/gt/220941192?gtid=da860e439e36cc6341fcd1341463e9b7" target="_blank" rel="noopener noreferrer">MARRIOTT (SOLD-OUT)</a>** 
+
+Rate: $360
+
+Cut off date: 9/18 
+
+<br/>
 
