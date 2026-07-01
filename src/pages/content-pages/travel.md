@@ -51,14 +51,6 @@ Cut off date 9/18
 
 <br/>
 
-[](<>)**<a href="https://www.hilton.com/en/attend-my-event/sjcshhf-ogs-bdc39670-8b17-4c67-8611-8485fa437147/" target="_blank" rel="noopener noreferrer">HILTON</a>** 
-
-Rate: $359  
-
-Cut off date: 9/18
-
-<br/>
-
 [](<>)**<a href="https://book.passkey.com/event/51173920/owner/478/landing" target="_blank" rel="noopener noreferrer">SIGNIA BY HILTON</a>** 
 
 Rate: $349  
@@ -195,3 +187,10 @@ Cut off date: 9/18
 
 <br/>
 
+[](<>)**<a href="https://www.hilton.com/en/attend-my-event/sjcshhf-ogs-bdc39670-8b17-4c67-8611-8485fa437147/" target="_blank" rel="noopener noreferrer">HILTON (SOLD-OUT)</a>** 
+
+Rate: $359  
+
+Cut off date: 9/18
+
+<br/>
