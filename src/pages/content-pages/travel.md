@@ -43,14 +43,6 @@ OCP has expanded the hotel options for attendees. Please be sure to use the offi
 *OCP will never email you directly with hotel deals or special rates.
 <br/>
 
-[](<>)**<a href="https://www.hyatt.com/events/en-US/group-booking/SJCZJ/G-OC26" target="_blank" rel="noopener noreferrer">HYATT PLACE</a>** [](<>)
-
-Rate: $321
-
-Cut off date 9/18 
-
-<br/>
-
 [](<>)**<a href="https://book.passkey.com/event/51173920/owner/478/landing" target="_blank" rel="noopener noreferrer">SIGNIA BY HILTON</a>** 
 
 Rate: $349  
@@ -192,5 +184,12 @@ Cut off date: 9/18
 Rate: $359  
 
 Cut off date: 9/18
+
+<br/>
+[](<>)**<a href="https://www.hyatt.com/events/en-US/group-booking/SJCZJ/G-OC26" target="_blank" rel="noopener noreferrer">HYATT PLACE (SOLD-OUT)</a>** [](<>)
+
+Rate: $321
+
+Cut off date 9/18 
 
 <br/>
