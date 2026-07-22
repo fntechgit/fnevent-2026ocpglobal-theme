@@ -41,13 +41,7 @@ SFO - San Francisco International Airport
 OCP has expanded the hotel options for attendees. Please be sure to use the official links below when booking your hotel for the Global Summit.
 
 *OCP will never email you directly with hotel deals or special rates.
-<br/>
 
-[](<>)**<a href="https://book.passkey.com/event/51173920/owner/478/landing" target="_blank" rel="noopener noreferrer">SIGNIA BY HILTON</a>** 
-
-Rate: $349  
-
-Cut off date: 9/14
 
 <br/>
 
@@ -132,12 +126,7 @@ Cut off date: 9/18
 Rate: $279
 
 Cut off date: 9/18
-<br/>
-**<a href="https://app.marriott.com/reslink?id=1777939312500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">TOWNEPLACE SUITES</a>** 
 
-Rate: $389
-
-Cut off date: 9/18
 <br/>
 **<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1771454194040&key=GRP&app=resvlink&_branch_match_id=1461145332080561431&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uaGJqYmhpYmBiYFadmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioAn7iyqWAAAAA%3D" target="_blank" rel="noopener noreferrer">RESIDENCE INN</a>** 
 
@@ -192,4 +181,19 @@ Rate: $321
 
 Cut off date 9/18 
 
+<br/>
+
+
+[](<>)**<a href="https://book.passkey.com/event/51173920/owner/478/landing" target="_blank" rel="noopener noreferrer">SIGNIA BY HILTON (SOLD-OUT)</a>** 
+
+Rate: $349  
+
+Cut off date: 9/14
+
+<br/>
+**<a href="https://app.marriott.com/reslink?id=1777939312500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">TOWNEPLACE SUITES (SOLD-OUT)</a>** 
+
+Rate: $389
+
+Cut off date: 9/18
 <br/>
