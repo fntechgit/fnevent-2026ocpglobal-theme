@@ -53,13 +53,6 @@ Cut off date: 9/11
 
 <br/>
 
-[](<>)**<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1772742166926&key=GRP&app=resvlink&_branch_match_id=1559604395060061710&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uZG5iZGhmZmlkZladmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioAIa8REGAAAAA%3D" target="_blank" rel="noopener noreferrer">FOUR POINTS</a>** 
-
-Rate: $499
-
-Cut off date: 9/11
-
-<br/>
 [](<>)**<a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fbook.passkey.com%2fe%2f51198477&c=E,1,25FeRj7oOGLTre1pqANs4uDBVb6f91LmWu1MrnGbVSH5aXXljSvFWRTHNQm8TyYxTRlsSOH-YHh18XrFEBN70O8dJFlW43QtlrPQ1uX_TV3dBxzUcw,,&typo=1" target="_blank" rel="noopener noreferrer">HAYES MANSION</a>** 
 
 Rate: $309
@@ -196,4 +189,13 @@ Cut off date: 9/14
 Rate: $389
 
 Cut off date: 9/18
+<br/>
+
+
+[](<>)**<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1772742166926&key=GRP&app=resvlink&_branch_match_id=1559604395060061710&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uZG5iZGhmZmlkZladmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioAIa8REGAAAAA%3D" target="_blank" rel="noopener noreferrer">FOUR POINTS (SOLD-OUT)</a>** 
+
+Rate: $499
+
+Cut off date: 9/11
+
 <br/>
