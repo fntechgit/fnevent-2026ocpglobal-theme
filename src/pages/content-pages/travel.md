@@ -43,13 +43,7 @@ OCP has expanded the hotel options for attendees. Please be sure to use the offi
 *OCP will never email you directly with hotel deals or special rates.
 
 
-<br/>
 
-**<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1772654591037&key=GRP&app=resvlink&_branch_match_id=1461145332080561431&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uZGZqYmppaGBsbladmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioAaxCtAGAAAAA%3D" target="_blank" rel="noopener noreferrer">WESTIN</a>** 
-
-Rate: $499
-
-Cut off date: 9/11
 
 <br/>
 
@@ -64,12 +58,6 @@ Cut off date: 9/11
 Rate: $539
 
 Cut off date: 9/11
-<br/>
-**<a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fwww.ihg.com%2fredirect%3fpath%3dasearch%26brandCode%3dND%26localeCode%3den%26regionCode%3d1%26hotelCode%3dSJCDA%26checkInDate%3d11%26checkInMonthYear%3d092026%26checkOutDate%3d16%26checkOutMonthYear%3d092026%26rateCode%3d6CBARC%26_PMID%3d99801505%26GPC%3dFNT%26cn%3dno%26adjustMonth%3dfalse%26showApp%3dtrue%26monthIndex%3d00&c=E,1,1JK197X33Wi56RJDg0j0wdpWqEwGmJrojySFsmhyzWLcQKmnf_Rz4kEpuAYpZUqFn6CgbrCmxIc87uOUzn09UrMX-3_S9VjBfsK4FVeLJ1YeWYeWWR_Slw,,&typo=1" target="_blank" rel="noopener noreferrer">HOTEL DE ANZA</a>** 
-
-Rate: $375
-
-Cut off date: 10/1
 <br/>
 **<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1771348633956&key=GRP&app=resvlink&_branch_match_id=1552657096914016839&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uaGxiYWZsbGlqZladmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioA%2FnIYUGAAAAA%3D&inventoryMissing=true" target="_blank" rel="noopener noreferrer">COURTYARD SAN JOSE NORTH/SILICON VALLEY</a>** 
 
@@ -198,4 +186,18 @@ Rate: $499
 
 Cut off date: 9/11
 
+<br/>
+
+**<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1772654591037&key=GRP&app=resvlink&_branch_match_id=1461145332080561431&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uZGZqYmppaGBsbladmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioAaxCtAGAAAAA%3D" target="_blank" rel="noopener noreferrer">WESTIN (SOLD-OUT)</a>** 
+
+Rate: $499
+
+Cut off date: 9/11
+
+<br/>
+**<a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fwww.ihg.com%2fredirect%3fpath%3dasearch%26brandCode%3dND%26localeCode%3den%26regionCode%3d1%26hotelCode%3dSJCDA%26checkInDate%3d11%26checkInMonthYear%3d092026%26checkOutDate%3d16%26checkOutMonthYear%3d092026%26rateCode%3d6CBARC%26_PMID%3d99801505%26GPC%3dFNT%26cn%3dno%26adjustMonth%3dfalse%26showApp%3dtrue%26monthIndex%3d00&c=E,1,1JK197X33Wi56RJDg0j0wdpWqEwGmJrojySFsmhyzWLcQKmnf_Rz4kEpuAYpZUqFn6CgbrCmxIc87uOUzn09UrMX-3_S9VjBfsK4FVeLJ1YeWYeWWR_Slw,,&typo=1" target="_blank" rel="noopener noreferrer">HOTEL DE ANZA (SOLD-OUT)</a>** 
+
+Rate: $375
+
+Cut off date: 10/1
 <br/>
