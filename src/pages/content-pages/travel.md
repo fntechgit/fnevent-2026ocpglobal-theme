@@ -90,12 +90,7 @@ Rate: $264
 
 Cut off date: 9/18
 <br/>
-**<a href="https://www.hilton.com/en/attend-my-event/2026ocpglobalsummitsanjose/" target="_blank" rel="noopener noreferrer">HAMPTON INN</a>** 
 
-Rate: $179
-
-Cut off date: 9/18
-<br/>
 **<a href="https://www.ihg.com/holidayinn/hotels/us/en/find-hotels/select-roomrate?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=SJCCC&qCiD=11&qCiMy=092026&qCoD=16&qCoMy=092026&qGrpCd=OP2&setPMCookies=true&qSHBrC=HI&qDest=1350%20North%201st%20Street,%20San%20Jose,%20CA,%20US&showApp=true&adjustMonth=false&srb_u=1&qRmFltr=" target="_blank" rel="noopener noreferrer">HOLIDAY INN</a>** 
 
 Rate: $164
@@ -200,4 +195,10 @@ Cut off date: 9/11
 Rate: $375
 
 Cut off date: 10/1
+<br/>
+**<a href="https://www.hilton.com/en/attend-my-event/2026ocpglobalsummitsanjose/" target="_blank" rel="noopener noreferrer">HAMPTON INN (SOLD-OUT)</a>** 
+
+Rate: $179
+
+Cut off date: 9/18
 <br/>
