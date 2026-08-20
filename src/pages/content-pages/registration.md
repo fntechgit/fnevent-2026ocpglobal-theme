@@ -42,7 +42,7 @@ A request to cancel your ticket must be emailed to [registration@opencompute.org
 
 **<br/>Media and Press Registration**
 
-[Click here](https://forms.gle/TnU9ahSX7EQgZBQR8) to register for a media pass. Media passes are only for legitimate members of the analyst and journalist community. After receiving your request, someone from OCP will reach out to you within 3 business days.
+<a href="https://forms.gle/TnU9ahSX7EQgZBQR8" target="_blank" rel="noopener noreferrer">Click here</a> to register for a media pass. Media passes are only for legitimate members of the analyst and journalist community. After receiving your request, someone from OCP will reach out to you within 3 business days.
 
 **<br/>Transfer a Ticket to Someone Else**
 
