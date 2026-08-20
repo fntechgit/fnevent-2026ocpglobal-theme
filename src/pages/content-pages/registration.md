@@ -8,17 +8,19 @@ userRequirement: NONE
 
 **<br/>2026 OCP Global Summit Registration Update**
 
-As we continue to experience unprecedented growth at the San Jose Convention Center, the Open Compute Project (OCP) Foundation anticipates that tickets for the 2026 Global Summit may sell out in advance of the live event.  
+As we continue to experience unprecedented growth, OCP anticipates that tickets for the 2026 Global Summit **may sell out in advance of the live event**. To preserve the quality, collaboration, and unique community experience that defines the OCP Global Summit, attendance may be limited. This approach ensures an engaging and productive environment for all participants.
 
-To preserve the quality, collaboration, and unique community experience that defines the OCP Global Summit, attendance may be limited. This approach ensures an engaging and productive environment for all participants.  
-
-OCP Members and current sponsors will receive priority access to registration before it opens to the general public.  
-
-Following the preliminary member and sponsor registration period, remaining tickets will be made available to the public. Registration will officially close once the maximum capacity has been reached. Onsite registration may not be available. We encourage the OCP Community to purchase all tickets needed as early as possible.  
-
-We appreciate your interest and support in the OCP Global Summit and we look forward to another successful show.\
+**Registration will officially close once the maximum capacity has been reached. Onsite registration may not be available.** We encourage the OCP Community to purchase all tickets needed as early as possible.\
 \
 [Click Here to Register Now](https://2026ocpglobal.fnvirtual.app/#registration=1)
+
+**Public Registration is now open!** This Summit will be an in-person event. All sessions will be recorded and shared with the Community after the show. Please directly any questions to: [registration@opencompute.org](mailto:registration@opencompute.org)
+
+Reminders:
+
+The following attendee types receive free passes: Board & Advisory Board Members, Steering Committee, Volunteer Leads, Speakers, Media, Sponsors (certain allotment each).  Promo codes will be distributed after July 22.
+Sponsors - Bulk Purchasing will still operate as normal - reach out to your sponsor manager for those.
+You do not need to immediately assign your tickets. They will be loaded into your account and may be assigned to individuals later via the My Orders/Tickets tab.
 
 **<br/>Registration Options**
 
@@ -36,11 +38,11 @@ Registration fees include: Access to all sessions (keynotes, executive sessions,
 
 **<br/>Cancellation Policy**
 
-A request to cancel your ticket must be emailed to registration@opencompute.org. Requests received prior to August 28 will receive a full refund. No refunds will be given after August 28.
+A request to cancel your ticket must be emailed to [registration@opencompute.org](mailto:registration@opencompute.org). The last day to receive a full refund is Sept 3. No refunds will be given after Sept 3.
 
 **<br/>Media and Press Registration**
 
-Media and Press registration will open in June. Check back here for details.
+[Click here](https://forms.gle/TnU9ahSX7EQgZBQR8) to register for a media pass. Media passes are only for legitimate members of the analyst and journalist community. After receiving your request, someone from OCP will reach out to you within 3 business days.
 
 **<br/>Transfer a Ticket to Someone Else**
 
