@@ -53,12 +53,6 @@ Rate: $309
 
 Cut off date: 9/11
 <br/>
-**<a href="https://app.marriott.com/reslink?id=1766174440022&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">AC HOTEL</a>** 
-
-Rate: $539
-
-Cut off date: 9/11
-<br/>
 **<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1771348633956&key=GRP&app=resvlink&_branch_match_id=1552657096914016839&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uaGxiYWZsbGlqZladmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioA%2FnIYUGAAAAA%3D&inventoryMissing=true" target="_blank" rel="noopener noreferrer">COURTYARD SAN JOSE NORTH/SILICON VALLEY</a>** 
 
 Rate: $289
@@ -201,4 +195,10 @@ Cut off date: 10/1
 Rate: $179
 
 Cut off date: 9/18
+<br/>
+**<a href="https://app.marriott.com/reslink?id=1766174440022&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">AC HOTEL (SOLD-OUT)</a>** 
+
+Rate: $539
+
+Cut off date: 9/11
 <br/>
