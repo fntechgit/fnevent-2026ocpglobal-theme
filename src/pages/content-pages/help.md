@@ -18,7 +18,7 @@ It helps us a lot if you include:
 
 ### Questions about the event itself
 
-For registration, badge collection, the schedule, or anything about the event on the ground, the event organisers are best placed to help. Their addresses are on the **Contact** page in this Information section.
+For registration, badge collection, the schedule, or anything about the event on the ground, the OCP events team is best placed to help. Their addresses — registration, membership, sponsorship and press — are on the **Contact** page in this Information section.
 
 ### Account deletion
 
