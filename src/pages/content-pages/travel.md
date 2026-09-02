@@ -43,15 +43,25 @@ OCP has expanded the hotel options for attendees. Please be sure to use the offi
 *OCP will never email you directly with hotel deals or special rates.
 
 
+<br/>
+**<a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fbook.passkey.com%2fgo%2fOCPGlobalSummit2026&c=E,1,Wf-3T2OVyct8WaF75CjBK8E7FniD0n7rYXCsyq6Z0KtN1BxgP9wCLY69aCsTa__6nPKs21ypAztNvKPGBRt-AfqpPnzIZ35x6KqBdDDRJSWDMQR1TmXbMg,,&typo=1" target="_blank" rel="noopener noreferrer">DOUBLETREE BY HILTON</a>** 
 
+Rate: $319
 
+Cut off date: 9/18
 <br/>
 
-[](<>)**<a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fbook.passkey.com%2fe%2f51198477&c=E,1,25FeRj7oOGLTre1pqANs4uDBVb6f91LmWu1MrnGbVSH5aXXljSvFWRTHNQm8TyYxTRlsSOH-YHh18XrFEBN70O8dJFlW43QtlrPQ1uX_TV3dBxzUcw,,&typo=1" target="_blank" rel="noopener noreferrer">HAYES MANSION</a>** 
+**<a href="https://www.ihg.com/holidayinn/hotels/us/en/find-hotels/select-roomrate?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=SJCCC&qCiD=11&qCiMy=092026&qCoD=16&qCoMy=092026&qGrpCd=OP2&setPMCookies=true&qSHBrC=HI&qDest=1350%20North%201st%20Street,%20San%20Jose,%20CA,%20US&showApp=true&adjustMonth=false&srb_u=1&qRmFltr=" target="_blank" rel="noopener noreferrer">HOLIDAY INN</a>** 
 
-Rate: $309
+Rate: $164
 
-Cut off date: 9/11
+Cut off date: 9/18
+<br/>
+**<a href="https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=SJCPEPE&arrivalDate=2026-10-11&departureDate=2026-10-16&groupCode=909&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink" target="_blank" rel="noopener noreferrer">SPARK BY HILTON</a>** 
+
+Rate: $219
+
+Cut off date: 9/18
 <br/>
 **<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1771348633956&key=GRP&app=resvlink&_branch_match_id=1552657096914016839&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uaGxiYWZsbGlqZladmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioA%2FnIYUGAAAAA%3D&inventoryMissing=true" target="_blank" rel="noopener noreferrer">COURTYARD SAN JOSE NORTH/SILICON VALLEY</a>** 
 
@@ -83,13 +93,7 @@ Cut off date: 9/18
 Rate: $264
 
 Cut off date: 9/18
-<br/>
 
-**<a href="https://www.ihg.com/holidayinn/hotels/us/en/find-hotels/select-roomrate?fromRedirect=true&qSrt=sBR&qIta=99801505&icdv=99801505&qSlH=SJCCC&qCiD=11&qCiMy=092026&qCoD=16&qCoMy=092026&qGrpCd=OP2&setPMCookies=true&qSHBrC=HI&qDest=1350%20North%201st%20Street,%20San%20Jose,%20CA,%20US&showApp=true&adjustMonth=false&srb_u=1&qRmFltr=" target="_blank" rel="noopener noreferrer">HOLIDAY INN</a>** 
-
-Rate: $164
-
-Cut off date: 9/18
 <br/>
 **<a href="https://app.marriott.com/reslink?id=1777939459500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">FAIRFIELD INN</a>** 
 
@@ -115,18 +119,14 @@ Cut off date: 9/18
 Rate: $279
 
 Cut off date: 9/18
+
 <br/>
-**<a href="https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=SJCPEPE&arrivalDate=2026-10-11&departureDate=2026-10-16&groupCode=909&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink" target="_blank" rel="noopener noreferrer">SPARK BY HILTON</a>** 
 
-Rate: $219
+[](<>)**<a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fbook.passkey.com%2fe%2f51198477&c=E,1,25FeRj7oOGLTre1pqANs4uDBVb6f91LmWu1MrnGbVSH5aXXljSvFWRTHNQm8TyYxTRlsSOH-YHh18XrFEBN70O8dJFlW43QtlrPQ1uX_TV3dBxzUcw,,&typo=1" target="_blank" rel="noopener noreferrer">HAYES MANSION</a>** 
 
-Cut off date: 9/18
-<br/>
-**<a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fbook.passkey.com%2fgo%2fOCPGlobalSummit2026&c=E,1,Wf-3T2OVyct8WaF75CjBK8E7FniD0n7rYXCsyq6Z0KtN1BxgP9wCLY69aCsTa__6nPKs21ypAztNvKPGBRt-AfqpPnzIZ35x6KqBdDDRJSWDMQR1TmXbMg,,&typo=1" target="_blank" rel="noopener noreferrer">DOUBLETREE BY HILTON</a>** 
+Rate: $309
 
-Rate: $319
-
-Cut off date: 9/18
+Cut off date: 9/11
 
 <br/>
 
