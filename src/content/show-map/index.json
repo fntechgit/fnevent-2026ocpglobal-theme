@@ -5,5 +5,16 @@
   "image": {
     "src": "2026-OCP-ShowMap.png",
     "alt": "2026 OCP Global Summit expo floor plan, showing exhibitor booths across Halls 1 to 3 and the Grand Ballroom, with a directory of exhibitors and their booth numbers."
-  }
+  },
+  "zones": [
+    { "prefix": "A", "label": "Hall 1",             "rect": [0.0205, 0.1120, 0.1535, 0.3751] },
+    { "prefix": "B", "label": "Hall 1",             "rect": [0.1545, 0.1120, 0.1285, 0.3751] },
+    { "prefix": "C", "label": "Hall 2",             "rect": [0.2635, 0.1369, 0.2540, 0.4169] },
+    { "prefix": "D", "label": "Hall 3",             "rect": [0.5060, 0.4213, 0.2435, 0.2107] },
+    { "prefix": "E", "label": "Innovation Village", "rect": [0.5125, 0.2240, 0.2375, 0.2533] },
+    { "prefix": "F", "label": "Expo Hall Theater",  "rect": [0.5125, 0.1360, 0.1670, 0.1262] },
+    { "prefix": "S", "label": "Expo Ballroom",      "rect": [0.8125, 0.1058, 0.1630, 0.1093] },
+    { "prefix": "T", "label": "Expo Ballroom",      "rect": [0.8060, 0.1813, 0.1485, 0.1778] },
+    { "prefix": "P", "label": "Expo Ballroom",      "rect": [0.9410, 0.1769, 0.0440, 0.1822] }
+  ]
 }
