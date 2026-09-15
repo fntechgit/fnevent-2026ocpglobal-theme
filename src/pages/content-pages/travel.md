@@ -63,36 +63,13 @@ Rate: $219
 
 Cut off date: 9/18
 <br/>
-**<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1771348633956&key=GRP&app=resvlink&_branch_match_id=1552657096914016839&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uaGxiYWZsbGlqZladmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioA%2FnIYUGAAAAA%3D&inventoryMissing=true" target="_blank" rel="noopener noreferrer">COURTYARD SAN JOSE NORTH/SILICON VALLEY</a>** 
 
-Rate: $289
-
-Cut off date: 9/18
-
-<br/>
 **<a href="https://www.sonesta.com/sonesta-select/ca/san-jose/sonesta-select-san-jose-airport?isGroupCode=true&groupCode=101126OPEN_1&checkin=2026-10-11&checkout=2026-10-16" target="_blank" rel="noopener noreferrer">SONESTA SELECT</a>** 
 
 Rate: $129
 
 Cut off date: 9/18
-<br/>
-**<a href="https://app.marriott.com/reslink?id=1777998903063&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">RESIDENCE INN SAN JOSE AIRPORT</a>** 
 
-Rate: $324
-
-Cut off date: 9/18
-<br/>
-**<a href="https://app.marriott.com/reslink?id=1778015812554&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">SPRINGHILL SUITES</a>** 
-
-Rate: $314
-
-Cut off date: 9/18
-<br/>
-**<a href="https://www.hilton.com/en/attend-my-event/sjccahw-904-cafbbe28-42b1-4704-9a5c-ea2096fc39d0/" target="_blank" rel="noopener noreferrer">HOMEWOOD SUITES</a>** 
-
-Rate: $264
-
-Cut off date: 9/18
 
 <br/>
 **<a href="https://app.marriott.com/reslink?id=1777939459500&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">FAIRFIELD INN</a>** 
@@ -120,13 +97,7 @@ Rate: $279
 
 Cut off date: 9/18
 
-<br/>
 
-[](<>)**<a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fbook.passkey.com%2fe%2f51198477&c=E,1,25FeRj7oOGLTre1pqANs4uDBVb6f91LmWu1MrnGbVSH5aXXljSvFWRTHNQm8TyYxTRlsSOH-YHh18XrFEBN70O8dJFlW43QtlrPQ1uX_TV3dBxzUcw,,&typo=1" target="_blank" rel="noopener noreferrer">HAYES MANSION</a>** 
-
-Rate: $309
-
-Cut off date: 9/11
 
 <br/>
 
@@ -201,4 +172,34 @@ Cut off date: 9/18
 Rate: $539
 
 Cut off date: 9/11
+
 <br/>
+**<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1771348633956&key=GRP&app=resvlink&_branch_match_id=1552657096914016839&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5uaGxiYWZsbGlqZladmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioA%2FnIYUGAAAAA%3D&inventoryMissing=true" target="_blank" rel="noopener noreferrer">COURTYARD SAN JOSE NORTH/SILICON VALLEY (SOLD-OUT)</a>** 
+
+Rate: $289
+
+Cut off date: 9/18
+<br/>
+**<a href="https://app.marriott.com/reslink?id=1777998903063&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">RESIDENCE INN SAN JOSE AIRPORT (SOLD-OUT)</a>** 
+
+Rate: $324
+
+Cut off date: 9/18
+<br/>
+**<a href="https://app.marriott.com/reslink?id=1778015812554&key=GRP&app=resvlink" target="_blank" rel="noopener noreferrer">SPRINGHILL SUITES (SOLD-OUT)</a>** 
+
+Rate: $314
+
+Cut off date: 9/18
+<br/>
+**<a href="https://www.hilton.com/en/attend-my-event/sjccahw-904-cafbbe28-42b1-4704-9a5c-ea2096fc39d0/" target="_blank" rel="noopener noreferrer">HOMEWOOD SUITES (SOLD-OUT)</a>** 
+
+Rate: $264
+
+Cut off date: 9/18
+<br/>
+[](<>)**<a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fbook.passkey.com%2fe%2f51198477&c=E,1,25FeRj7oOGLTre1pqANs4uDBVb6f91LmWu1MrnGbVSH5aXXljSvFWRTHNQm8TyYxTRlsSOH-YHh18XrFEBN70O8dJFlW43QtlrPQ1uX_TV3dBxzUcw,,&typo=1" target="_blank" rel="noopener noreferrer">HAYES MANSION (SOLD-OUT)</a>** 
+
+Rate: $309
+
+Cut off date: 9/11
