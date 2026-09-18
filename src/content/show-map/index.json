@@ -168,11 +168,20 @@
       ]
     },
     {
-      "title": "Venue map",
-      "caption": "San Jose McEnery Convention Center — Concourse, Parkway & Lower Levels",
+      "title": "Concourse Level",
+      "caption": "San Jose McEnery Convention Center - Concourse",
       "image": {
-        "src": "2026-OCP-VenueMap.webp",
-        "alt": "San Jose McEnery Convention Center venue map, showing the Concourse Level (Expo Hall, Expo Ballroom, meeting rooms) and the Parkway & Lower Level (registration, keynote and dining hall, additional meeting rooms)."
+        "src": "2026-OCP-VenueMap-Concourse.webp",
+        "alt": "San Jose McEnery Convention Center, Concourse Level floor plan — Expo Hall, Expo Ballroom, meeting rooms and the walking path to South Hall."
+      },
+      "zones": []
+    },
+    {
+      "title": "Parkway & Lower Level",
+      "caption": "San Jose McEnery Convention Center - Parkway & Lower Levels",
+      "image": {
+        "src": "2026-OCP-VenueMap-Parkway.webp",
+        "alt": "San Jose McEnery Convention Center, Parkway Level and Lower Level floor plan — registration, the Hub, Lower Level meeting rooms, and the South Hall meal schedule."
       },
       "zones": []
     }
