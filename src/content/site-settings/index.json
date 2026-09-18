@@ -15,7 +15,7 @@
       "defaultScope": "page"
     },
     "schedule": {
-      "allowClick": true
+      "allowClick": false
     }
   },
   "maintenanceMode": {
