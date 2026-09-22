@@ -31,6 +31,16 @@
       "display": true
     },
     {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "MAP",
+      "link": "/map",
+      "display": true
+    },
+    {
       "title": "SCHEDULE",
       "link": "/a/schedule",
       "display": true,
