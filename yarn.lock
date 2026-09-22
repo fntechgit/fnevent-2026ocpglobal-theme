@@ -2545,10 +2545,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.1.64":
-  version "2.1.64"
-  resolved "https://registry.npmjs.org/@openeventkit/event-site/-/event-site-2.1.64.tgz#845a6b007a832c020e2de1fb2c59c951acc229c0"
-  integrity sha512-cmrSrEC80O0hTqJ8B+esWLTE8Km5809RBTCMN9i3QY7/KSNM5yO3eIHrpfHq8kl7a4Q+3gsMiLh5B4Fm3yM3Ew==
+"@openeventkit/event-site@2.1.65":
+  version "2.1.65"
+  resolved "https://registry.npmjs.org/@openeventkit/event-site/-/event-site-2.1.65.tgz#b47fe5687ea048353fc38507daab71250078c020"
+  integrity sha512-egewiI1uUzJEoiw+kngx7ADeNKpwTrUbnLZzAbWQxHT0OzNzoQcHeKWGlHW1QeXxgJUiQ27mKEP8jpdOFGX6oA==
   dependencies:
     "@emotion/server" "^11.11.0"
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
