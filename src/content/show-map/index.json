@@ -2,7 +2,7 @@
   "display": true,
   "maps": [
     {
-      "title": "Sponsors",
+      "title": "Expo Halls & Ballroom Maps",
       "caption": "OCP Global Summit Expo\nExpo Ballroom & Expo Halls 1 - 3",
       "image": {
         "src": "2026-OCP-ShowMap-260924.webp",
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "title": "Concourse Level",
+      "title": "Venue Map: Concourse Level",
       "caption": "San Jose McEnery Convention Center\nConcourse",
       "image": {
         "src": "2026-OCP-VenueMap-Concourse-260918.webp",
@@ -188,7 +188,7 @@
       "zones": []
     },
     {
-      "title": "Parkway & Lower Level",
+      "title": "Venue Map: Parkway and Lower Levels",
       "caption": "San Jose McEnery Convention Center\nParkway and Lower Level",
       "image": {
         "src": "2026-OCP-VenueMap-Parkway-260918.webp",
