@@ -10,8 +10,6 @@ Below, you’ll find helpful information to help prepare you for the event.
 
 ![](ocp26g-fnv-hlschedule-horz-for-onsite-info-pg.png)
 
-
-
 <br/>
 
 **Parking**
@@ -42,8 +40,7 @@ Change of plans? You may now transfer your ticket to someone else before check-i
 
 Keynotes take place on Monday from 4–6:15pm and Tuesday from 9–11:15am and will be held in the South Hall behind the main center building. We highly recommend that you pick up your badge early on Monday to avoid the long lines right before keynotes start!
 
-[CLICK HERE TO VIEW THE VENUE MAP](https://2026ocpglobal.fnvirtual.app/map/)
-
+<a href="https://2026ocpglobal.fnvirtual.app/map/" target="_blank" rel="noopener noreferrer">CLICK HERE TO VIEW THE VENUE MAP</a> 
 It’s a short 3 to 5-minute walk to get to South Hall. For those who need assistance, we will be running small passenger shuttles from the main convention center entrance (San Carlos St.) to South Hall. 
 
 **SHUTTLE SERVICE:** 
@@ -64,4 +61,4 @@ Need somewhere to chat, check your email, or network with your peers? Head to on
 
 When onsite, attendees must wear their badge at ALL TIMES to access Summit functions. We appreciate your cooperation! 
 
-Staying for a few more days? Click [HERE](https://www.sanjose.org/things-to-do) for Things To Do in San Jose.
+Staying for a few more days? Click <a href="https://www.sanjose.org/things-to-do" target="_blank" rel="noopener noreferrer">HERE</a> for Things To Do in San Jose.
