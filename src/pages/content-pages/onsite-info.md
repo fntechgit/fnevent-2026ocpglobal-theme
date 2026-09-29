@@ -24,8 +24,8 @@ Registration will be open in The Hub, near main entrance of the convention cente
 
 * Monday: 11am-7pm
 * Tuesday: 7:30am-7pm
-* Wednesday: 7am-5pm
-* Thursday: 7am-4pm
+* Wednesday: 7:30am-5pm
+* Thursday: 7:30am-4pm
 * Please bring your photo ID for badge pickup
 
 Your registration fee includes access to all sessions (Keynotes, Executive and Breakout, and the Expo Hall Theater), the Expo Hall, Innovation Village, breakfast, lunch, coffee, snack breaks, evening receptions, Future Technologies Symposium, and all official co-located events.
@@ -38,7 +38,7 @@ Change of plans? You may now transfer your ticket to someone else before check-i
 
 **Keynotes**
 
-Keynotes take place on Monday from 4–6:15pm and Tuesday from 9–11:15am and will be held in the South Hall behind the main center building. We highly recommend that you pick up your badge early on Monday to avoid the long lines right before keynotes start!
+Keynotes take place on Monday from 4–6:00pm and Tuesday from 9–11:30am and will be held in the South Hall behind the main center building. We highly recommend that you pick up your badge early on Monday to avoid the long lines right before keynotes start!
 
 <a href="https://2026ocpglobal.fnvirtual.app/map/" target="_blank" rel="noopener noreferrer">CLICK HERE TO VIEW THE VENUE MAP</a> 
 It’s a short 3 to 5-minute walk to get to South Hall. For those who need assistance, we will be running small passenger shuttles from the main convention center entrance (San Carlos St.) to South Hall. 
