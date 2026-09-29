@@ -4,7 +4,7 @@ title: Onsite Info
 slug: onsite-info
 userRequirement: NONE
 ---
-We are excited for you to join us this week in San Jose for the 2025 OCP Global Summit!
+We are excited for you to join us this week in San Jose for the 2026 OCP Global Summit!
 
 Below, you’ll find helpful information to help prepare you for the event.
 
