@@ -12,13 +12,13 @@ Below, you’ll find helpful information to help prepare you for the event.
 
 <br/>
 
-**Parking**
+**PARKING**
 
 LIMITED ON-SITE PARKING: The San Jose McEnery Convention Center has a nominal amount of public parking, which fills up very quickly. Please consider using a rideshare service or public transit when possible. Please note that unlike past years, the South Hall parking lot will not be available during the Summit. [Click HERE](https://www.sanjose.org/trip-ideas/parking) for parking information.
 
 <br/>
 
-**Registration**
+**REGISTRATION**
 
 Registration will be open in The Hub, near main entrance of the convention center during these times:
 
@@ -36,7 +36,7 @@ Change of plans? You may now transfer your ticket to someone else before check-i
 
 <br/>
 
-**Keynotes**
+**KEYNOTES**
 
 Keynotes take place on Monday from 4–6:00pm and Tuesday from 9–11:30am and will be held in the South Hall behind the main center building. We highly recommend that you pick up your badge early on Monday to avoid the long lines right before keynotes start!
 
@@ -47,13 +47,13 @@ It’s a short 3 to 5-minute walk to get to South Hall. For those who need assis
 
 OCP provides two types of free shuttles. 
 
-**Small ADA Shuttles** for those with mobility challenges. These run from the front of the convention center and drop off at the Marriott Market St. entrance, South Hall, and near the Hilton Almaden Blvd. entrance. 
+* **Small ADA Shuttles** for those with mobility challenges. These run from the front of the convention center and drop off at the Marriott Market St. entrance, South Hall, and near the Hilton Almaden Blvd. entrance. 
 
-**Larger Limited Hotel Shuttles** for those staying in OCP hotels that are further away from the convention center. 
+* **Larger Limited Hotel Shuttles** for those staying in OCP hotels that are further away from the convention center. 
 
 <br/>
 
-**Helpful Info**
+**HELPFUL INFO**
 
 All sessions will be recorded. Session videos and slides will be posted to the OCP Past Events page [here](https://www.opencompute.org/events/past-events) in the weeks following Summit.
 
