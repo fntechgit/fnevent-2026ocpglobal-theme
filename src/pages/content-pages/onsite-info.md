@@ -8,9 +8,9 @@ We are excited for you to join us this week in San Jose for the 2026 OCP Global 
 
 Below, you’ll find helpful information to help prepare you for the event.
 
-![](ocp26g-fnv-hlschedule-horz-for-onsite-info-pg.png)
+![](ocp26g-website-hlschedule-v5.jpg)
 
-<br/>
+
 
 **PARKING**
 
@@ -34,21 +34,23 @@ Your registration fee includes access to all sessions (Keynotes, Executive and B
 
 Change of plans? You may now transfer your ticket to someone else before check-in. Log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options.
 
-<br/>
+
 
 **KEYNOTES**
 
 Keynotes take place on Monday from 4–6:00pm and Tuesday from 9–11:30am and will be held in the South Hall behind the main center building. We highly recommend that you pick up your badge early on Monday to avoid the long lines right before keynotes start!
 
-<a href="https://2026ocpglobal.fnvirtual.app/map/" target="_blank" rel="noopener noreferrer">CLICK HERE TO VIEW THE VENUE MAP</a> 
-It’s a short 3 to 5-minute walk to get to South Hall. For those who need assistance, we will be running small passenger shuttles from the main convention center entrance (San Carlos St.) to South Hall. 
+<a href="https://2026ocpglobal.fnvirtual.app/map/" target="_blank" rel="noopener noreferrer">CLICK HERE TO VIEW THE VENUE MAP</a>
 
+<br/>
+
+
+It’s a short 3 to 5-minute walk to get to South Hall. For those who need assistance, we will be running small passenger shuttles from the main convention center entrance (San Carlos St.) to South Hall. <br/>\
 **SHUTTLE SERVICE:** 
 
 OCP provides two types of free shuttles. 
 
 * **Small ADA Shuttles** for those with mobility challenges. These run from the front of the convention center and drop off at the Marriott Market St. entrance, South Hall, and near the Hilton Almaden Blvd. entrance. 
-
 * **Larger Limited Hotel Shuttles** for those staying in OCP hotels that are further away from the convention center. 
 
 <br/>
