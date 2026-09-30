@@ -8,9 +8,7 @@ We are excited for you to join us this week in San Jose for the 2026 OCP Global 
 
 Below, you’ll find helpful information to help prepare you for the event.
 
-![](ocp26g-website-hlschedule-v5.jpg)
-
-
+![](ocp26g-website-hlschedule-v5_65.jpg)
 
 **PARKING**
 
@@ -34,8 +32,6 @@ Your registration fee includes access to all sessions (Keynotes, Executive and B
 
 Change of plans? You may now transfer your ticket to someone else before check-in. Log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options.
 
-
-
 **KEYNOTES**
 
 Keynotes take place on Monday from 4–6:00pm and Tuesday from 9–11:30am and will be held in the South Hall behind the main center building. We highly recommend that you pick up your badge early on Monday to avoid the long lines right before keynotes start!
@@ -43,7 +39,6 @@ Keynotes take place on Monday from 4–6:00pm and Tuesday from 9–11:30am and w
 <a href="https://2026ocpglobal.fnvirtual.app/map/" target="_blank" rel="noopener noreferrer">CLICK HERE TO VIEW THE VENUE MAP</a>
 
 <br/>
-
 
 It’s a short 3 to 5-minute walk to get to South Hall. For those who need assistance, we will be running small passenger shuttles from the main convention center entrance (San Carlos St.) to South Hall. <br/>\
 **SHUTTLE SERVICE:** 
