@@ -1,0 +1,105 @@
+.faq {
+  --faq-ink: #122b40;
+  --faq-muted: #4b5f6c;
+  --faq-line: #dce5e6;
+  --faq-green: #c6e87d;
+  color: var(--faq-ink);
+  background: #fff;
+  padding: clamp(24px, 5vw, 72px) max(20px, calc((100vw - 1200px) / 2)) 64px;
+  font-family: inherit;
+
+  *, *::before, *::after { box-sizing: border-box; }
+  a { color: #175b76; text-underline-offset: 4px; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible { outline: 3px solid #267995; outline-offset: 5px; border-radius: 2px; }
+  h1, h2, h3 { color: var(--faq-ink); font-family: inherit; font-weight: 700; line-height: 1.2; }
+  h1 { font-size: clamp(34px, 4vw, 54px); max-width: 650px; margin: 16px 0; letter-spacing: -0.025em; }
+  p { margin: 0 0 16px; }
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  align-items: center;
+  gap: 48px;
+  padding-bottom: 48px;
+  border-bottom: 1px solid var(--faq-line);
+}
+
+.faq .eyebrow { font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 12px; }
+.intro { color: var(--faq-muted); font-size: 20px; line-height: 1.5; }
+.faq .primaryLink { display: inline-flex; align-items: center; gap: 24px; color: var(--faq-ink); background: var(--faq-green); padding: 13px 20px; border-radius: 6px; font-weight: 700; margin-top: 12px; }
+
+.appCard {
+  padding: 28px;
+  background: #eef4f4;
+  border-radius: 12px;
+  border-top: 4px solid #82b83e;
+  h2 { font-size: 28px; margin: 0 0 12px; }
+  p { line-height: 1.5; }
+}
+.storeLinks { display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0; }
+.faq .storeLinks a { border: 1px solid #b6c7cc; background: #fff; padding: 10px 12px; border-radius: 5px; font-weight: 700; font-size: 14px; }
+.demoLink { font-weight: 700; text-decoration: underline; }
+
+.layout { display: grid; grid-template-columns: 250px minmax(0, 1fr); gap: 64px; padding-top: 40px; }
+.sidebar {
+  align-self: start;
+  position: sticky;
+  top: 110px;
+  nav ul { margin: 0; padding: 0; list-style: none; }
+  nav a { display: flex; gap: 12px; padding: 12px 0; font-size: 15px; line-height: 1.45; color: var(--faq-ink); }
+  nav a span { color: #637784; font-size: 12px; padding-top: 2px; }
+}
+.sidebarHelp { border-top: 1px solid var(--faq-line); margin-top: 24px; padding-top: 24px; font-size: 14px; p { margin-bottom: 8px; font-weight: 700; } }
+
+.answers {
+  min-width: 0;
+  font-size: 17px;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+  > p:first-child { font-size: 20px; line-height: 1.5; color: var(--faq-muted); margin: 0 0 32px; }
+  h2 { font-size: clamp(25px, 3vw, 32px); margin: 56px 0 28px; border-top: 2px solid var(--faq-line); padding-top: 28px; scroll-margin-top: 120px; }
+  h3 { font-size: 21px; line-height: 1.4; margin: 32px 0 12px; }
+  p { margin-bottom: 16px; }
+  a { text-decoration: underline; }
+  ul, ol { padding-left: 24px; margin: 0 0 20px; }
+  ul { list-style: disc; }
+  ol { list-style: decimal; }
+  li { padding-left: 4px; margin-bottom: 8px; }
+}
+
+.support {
+  scroll-margin-top: 120px;
+  margin-top: 56px;
+  background: #eef4f4;
+  border-radius: 12px;
+  padding: clamp(24px, 4vw, 40px);
+  h2 { font-size: 32px; margin: 0 0 24px; }
+  h3 { font-size: 21px; margin: 0 0 12px; }
+  p { line-height: 1.6; }
+  a { font-weight: 700; text-decoration: underline; overflow-wrap: anywhere; }
+}
+.supportGrid { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; }
+
+@media (max-width: 850px) {
+  .hero { grid-template-columns: 1fr; gap: 28px; padding-bottom: 32px; }
+  .layout { grid-template-columns: 1fr; gap: 28px; padding-top: 28px; }
+  .sidebar { position: static; nav ul { display: grid; grid-template-columns: 1fr 1fr; gap: 0 16px; } }
+  .sidebarHelp { display: none; }
+  .answers h2 { scroll-margin-top: 100px; }
+}
+
+@media (max-width: 480px) {
+  .appCard { padding: 22px; }
+  .sidebar nav ul { grid-template-columns: 1fr; }
+  .sidebar nav a { border-bottom: 1px solid var(--faq-line); padding: 10px 0; }
+  .supportGrid { grid-template-columns: 1fr; gap: 28px; }
+}
+
+@media print {
+  .faq { padding: 0; }
+  .hero, .layout { display: block; }
+  .sidebar, .appCard, .primaryLink { display: none !important; }
+  .answers h2, .answers h3 { break-after: avoid; }
+}
