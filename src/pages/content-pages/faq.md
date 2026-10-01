@@ -5,9 +5,17 @@ userRequirement: NONE
 ---
 Help with your FNid, registration, the event website, and the FNattendee mobile app for the 2026 OCP Global Summit.
 
-## Signing in
 
-### What is an FNid?
+
+## NEW! See the app in action
+
+[Watch the FNattendee demo on YouTube](<>).
+
+
+
+## SIGNING IN
+
+### What is an FNid (or Foxtrot November ID)?
 
 Your FNid is the account you use to sign in to the event website and the FNattendee app. You can use the same account for other participating events on the Foxtrot November platform.
 
@@ -39,7 +47,7 @@ Use the email address associated with your assigned ticket. Signing in with a di
 
 If you need help correcting an address or locating an existing account, contact [support@fntech.com](mailto:support@fntech.com?subject=2026%20OCP%20Global%20Summit%20sign-in%20support).
 
-## Registration, orders, and tickets
+## REGISTRATION, ORDERS, AND TICKETS
 
 ### Where can I find my ticket?
 
@@ -87,7 +95,7 @@ Complete any required registration information before arriving to help keep chec
 
 Email [registration@opencompute.org](mailto:registration@opencompute.org?subject=2026%20OCP%20Global%20Summit%20registration%20question). Include your name, registration email, and order or ticket number if available. At the event, you can also visit the Registration desk.
 
-## Using the FNattendee app
+## USING THE FNattendee APP
 
 ### Where do I download the app?
 
@@ -123,13 +131,13 @@ Open a session to see its location. Use **Show maps** for maps provided by the o
 
 The content available in these sections depends on the event.
 
-## Schedule and sessions
+## SCHEDULE AND SESSIONS
 
 ### How do I add a session to My Schedule?
 
-On the website, open **Schedule**, find the session, and select its **\+** or add-to-schedule control. Open **My Schedule** to view your saved sessions.
+On the website, open **Schedule**, find the session, and select its **+** or add-to-schedule control. Open **My Schedule** to view your saved sessions.
 
-In the app, open **Schedule** and tap the **\+** beside a session. Use **My Schedule** to show your saved sessions. Select the checked control to remove a session.
+In the app, open **Schedule** and tap the **+** beside a session. Use **My Schedule** to show your saved sessions. Select the checked control to remove a session.
 
 Sign in with the same FNid on the website and app to use the same personal schedule.
 
@@ -190,10 +198,10 @@ Use the available controls in a conversation to block a connection or report ina
 
 Check both the app and your phone:
 
-- In **Profile & Privacy**, check **Allow notifications** and save your changes.
-- In your phone's settings, allow notifications for FNattendee.
-- Check whether Focus, Do Not Disturb, or another device setting is silencing alerts.
-- Confirm that chat is enabled and that you have an internet connection.
+* In **Profile & Privacy**, check **Allow notifications** and save your changes.
+* In your phone's settings, allow notifications for FNattendee.
+* Check whether Focus, Do Not Disturb, or another device setting is silencing alerts.
+* Confirm that chat is enabled and that you have an internet connection.
 
 You can still open the app to check your conversations. Saving a session to My Schedule should not be treated as a promise of a timed reminder.
 
@@ -203,7 +211,7 @@ In the app, open **Profile & Privacy** and choose **Request account deletion**, 
 
 This is a request concerning your FNid across the platform, not just removal of the app from your phone. Support will guide you through the process and explain its effect on your account and registrations.
 
-## Troubleshooting and support
+## TROUBLESHOOTING AND SUPPORT
 
 ### Which browser should I use for the event website?
 
@@ -233,19 +241,17 @@ On the website, use your browser's zoom controls. In the app, try your phone's t
 
 Email [support@fntech.com](mailto:support@fntech.com?subject=2026%20OCP%20Global%20Summit%20technical%20support) with:
 
-- The event name and the email address you use to sign in.
-- What you were trying to do and what happened instead.
-- The page or app screen where the problem occurred.
-- Your device and operating-system version.
-- Your browser version, or the app version shown at the bottom of **Information**.
-- A screenshot or the exact error message, if available.
+* The event name and the email address you use to sign in.
+* What you were trying to do and what happened instead.
+* The page or app screen where the problem occurred.
+* Your device and operating-system version.
+* Your browser version, or the app version shown at the bottom of **Information**.
+* A screenshot or the exact error message, if available.
 
 Do not include your password or an email sign-in code.
 
 ### Who should I contact about using the platform for my own event?
 
-Email [support@fntech.com](mailto:support@fntech.com?subject=Foxtrot%20November%20event%20platform%20inquiry) with a few details about your event.
+Email [support@fntech.com](mailto:support@fntech.com?subject=Foxtrot%20November%20event%20platform%20inquiry) with a few details about your event. 
 
-## See the app in action
-
-[Watch the FNattendee demo on YouTube](https://www.youtube.com/shorts/EhSbYk1dsBY).
+*Powered by FNTECH.*
