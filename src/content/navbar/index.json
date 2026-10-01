@@ -31,16 +31,6 @@
       "display": true
     },
     {
-      "userRequirement": "NONE",
-      "pageRestriction": [
-        "ANY"
-      ],
-      "showOnlyAtShowTime": false,
-      "title": "MAP",
-      "link": "/map",
-      "display": true
-    },
-    {
       "title": "SCHEDULE",
       "link": "/a/schedule",
       "display": true,
@@ -57,6 +47,26 @@
       "pageRestriction": [
         "ANY"
       ]
+    },
+    {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "title": "MAP",
+      "link": "/map",
+      "display": true
+    },
+    {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "display": true,
+      "title": "ONSITE INFO",
+      "link": "/onsite-info"
     },
     {
       "title": "CONTACT",
@@ -104,16 +114,6 @@
       "title": "FAQ",
       "link": "/faq",
       "display": true
-    },
-    {
-      "userRequirement": "NONE",
-      "pageRestriction": [
-        "ANY"
-      ],
-      "showOnlyAtShowTime": false,
-      "display": true,
-      "title": "Onsite Info",
-      "link": "/onsite-info"
     }
   ]
 }
