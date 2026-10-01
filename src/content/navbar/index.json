@@ -104,6 +104,16 @@
       "title": "FAQ",
       "link": "/faq",
       "display": true
+    },
+    {
+      "userRequirement": "NONE",
+      "pageRestriction": [
+        "ANY"
+      ],
+      "showOnlyAtShowTime": false,
+      "display": true,
+      "title": "Onsite Info",
+      "link": "/onsite-info"
     }
   ]
 }
