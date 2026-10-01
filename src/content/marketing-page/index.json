@@ -58,10 +58,6 @@
           {
             "src": "ocp26g_onsite-fnv-marketing-space1.png",
             "link": "https://2026ocpglobal.fnvirtual.app/onsite-info/"
-          },
-          {
-            "src": "ocp26g_onsite-fnv-marketing-space3.png",
-            "link": "https://2026ocpglobal.fnvirtual.app/a/schedule/"
           }
         ]
       },
@@ -76,6 +72,26 @@
           {
             "src": "ocp26g_onsite-fnv-marketing-space4.png",
             "link": " https://apps.apple.com/us/app/fnattendee/id6794956430"
+          }
+        ]
+      },
+      {
+        "placement": "Middle Left",
+        "size": 1,
+        "images": [
+          {
+            "src": "ocp26g_onsite-fnv-marketing-space3.png",
+            "link": "https://2026ocpglobal.fnvirtual.app/a/schedule/"
+          }
+        ]
+      },
+      {
+        "placement": "Middle Right",
+        "size": 1,
+        "images": [
+          {
+            "src": "ocp26g_onsite-fnv-marketing-space4.png",
+            "link": "https://apps.apple.com/us/app/fnattendee/id6794956430"
           }
         ]
       },
