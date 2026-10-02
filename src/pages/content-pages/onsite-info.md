@@ -28,9 +28,13 @@ Registration will be open in The Hub, near main entrance of the convention cente
 
 Your registration fee includes access to all sessions (Keynotes, Executive and Breakout, and the Expo Hall Theater), the Expo Hall, Innovation Village, breakfast, lunch, coffee, snack breaks, evening receptions, Future Technologies Symposium, and all official co-located events.
 
+<br/>
+
 **TICKET TRANSFER**
 
 Change of plans? You may now transfer your ticket to someone else before check-in. Log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options.
+
+<br/>
 
 **KEYNOTES**
 
@@ -40,7 +44,9 @@ Keynotes take place on Monday from 4–6:00pm and Tuesday from 9–11:30am and w
 
 <br/>
 
-It’s a short 3 to 5-minute walk to get to South Hall. For those who need assistance, we will be running small passenger shuttles from the main convention center entrance (San Carlos St.) to South Hall. <br/>\
+It’s a short 3 to 5-minute walk to get to South Hall. For those who need assistance, we will be running small passenger shuttles from the main convention center entrance (San Carlos St.) to South Hall. 
+
+<br/>\
 **SHUTTLE SERVICE:** 
 
 OCP provides two types of free shuttles. 
