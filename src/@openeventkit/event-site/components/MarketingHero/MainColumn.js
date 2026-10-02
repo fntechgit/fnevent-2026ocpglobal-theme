@@ -29,7 +29,22 @@ const ButtonGroup = ({ location, registerButton, loginButton }) => {
           {redeemButton}
         </RegistrationModalComponent>
       )}
-      {loginButton?.display && <AuthComponent location={location} />}
+      {loginButton?.display && (
+        <AuthComponent
+          location={location}
+          renderLoginButton={(onClick) => (
+            <button type="button" className={styles.accountButton} onClick={onClick}>
+              {loginButton.text || "Log In"}
+              <span aria-hidden="true">→</span>
+            </button>
+          )}
+          renderEnterButton={(onClick) => (
+            <button type="button" className={styles.accountButton} onClick={onClick}>
+              Enter <span aria-hidden="true">→</span>
+            </button>
+          )}
+        />
+      )}
     </div>
   );
 };
