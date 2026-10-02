@@ -54,7 +54,7 @@
     color: inherit;
   }
 
-  .notificationButton, .redeemButton {
+  .notificationButton, .redeemButton, .accountButton {
     display: inline-flex;
     align-items: center;
     justify-content: space-between;
@@ -121,8 +121,10 @@
     margin-top: 14px;
   }
 
-  .redeemButton {
+  .redeemButton, .accountButton {
     min-height: 44px;
+    min-width: 160px;
+    margin: 0;
     border: 1px solid #fff;
     background: #fff;
     color: #19401e;
@@ -131,6 +133,13 @@
     gap: 10px;
 
     &:hover { background: #e7f1dc; }
+  }
+
+  .accountButton {
+    background: transparent;
+    color: #fff;
+
+    &:hover { background: #194b29; }
   }
 }
 
