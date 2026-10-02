@@ -119,6 +119,16 @@
     flex-wrap: wrap;
     gap: 14px;
     margin-top: 14px;
+
+    // The widget uses !important colors; keep disabled actions readable while
+    // preserving their disabled state and leaving enabled actions unchanged.
+    :global(.summit-registration-lite) :global(.button):disabled {
+      color: #595959 !important;
+      background-color: #e5e7eb !important;
+      border-color: #c7cbd1 !important;
+      opacity: 1;
+      cursor: not-allowed !important;
+    }
   }
 
   .redeemButton, .accountButton {
