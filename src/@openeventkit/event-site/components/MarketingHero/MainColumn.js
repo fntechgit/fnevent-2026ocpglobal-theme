@@ -41,7 +41,7 @@ const MainColumn = ({ location, title, subTitle, date, time, buttons, background
     : {};
 
   return (
-    <div className={`column ${!fullWidth ? "is-half" : ""} p-0 ${styles.mainColumn}`} style={backgroundImageStyle}>
+    <div data-sold-out-hero="true" className={`column ${!fullWidth ? "is-half" : ""} p-0 ${styles.mainColumn}`} style={backgroundImageStyle}>
       <div className={styles.heroBody}>
         {title && <h1 className={styles.eventTitle}>{title}</h1>}
         {subTitle && <p className={styles.subTitle}>{subTitle}</p>}
