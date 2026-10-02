@@ -6,15 +6,18 @@ userRequirement: NONE
 ---
 [](<>)[](<>)
 
-**<br/>2026 OCP Global Summit Registration Update**
+**<br/>The 2026 OCP Global Summit is officially SOLD OUT!**
 
-As we continue to experience unprecedented growth, OCP anticipates that tickets for the 2026 Global Summit **may sell out in advance of the live event**. To preserve the quality, collaboration, and unique community experience that defines the OCP Global Summit, attendance may be limited. This approach ensures an engaging and productive environment for all participants.
+Thanks to the incredible engagement from the OCP Community, we’ve reached maximum capacity for this year’s Summit in San Jose, **and registration is now closed. Onsite registration will not be offered.**
 
-**Registration will officially close once the maximum capacity has been reached. Onsite registration may not be available.** We encourage the OCP Community to purchase all tickets needed as early as possible.\
+If you are a speaker or have a previously issued promo code, your spot is reserved; however, you must complete your registration and redeem your code by Tuesday, October 6 at 5:00 PM PT. Redeem [here](https://2026ocpglobal.fnvirtual.app/).
+
+**Join the Notification List**
+Should additional tickets become available, those who sign up for the Notification List will be alerted by email. Tickets will be available on a first come, first served basis until they’re gone, so we encourage you to register as soon as you receive the notification.\
 \
-[Click Here to Register Now](https://2026ocpglobal.fnvirtual.app/#registration=1)
+[Join the Notification List](https://forms.gle/P6UVMcGTDLyAnEYJA)
 
-**Public Registration is now open!** This Summit will be an in-person event. All sessions will be recorded and shared with the Community after the show. Please directly any questions to: [registration@opencompute.org](mailto:registration@opencompute.org)
+This Summit will be an in-person event. All sessions will be recorded and shared with the Community after the show. Please directly any questions to: [registration@opencompute.org](mailto:registration@opencompute.org)
 
 Reminders:
 
@@ -22,7 +25,7 @@ The following attendee types receive free passes: Board & Advisory Board Members
 Sponsors - Bulk Purchasing will still operate as normal - reach out to your sponsor manager for those.
 You do not need to immediately assign your tickets. They will be loaded into your account and may be assigned to individuals later via the My Orders/Tickets tab.
 
-**<br/>Registration Options**
+**<br/>Registration Options – SOLD OUT**
 
 Pre-Sale Registration: Members & Sponsors - $800	June 3 - July 17
 
