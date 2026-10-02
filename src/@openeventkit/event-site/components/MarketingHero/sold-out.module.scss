@@ -2,7 +2,6 @@
   background-color: #003812;
   background-size: cover;
   background-position: center;
-  color: #fff;
   min-width: 0;
 
   .heroBody {
@@ -44,13 +43,14 @@
   }
 
   .intro {
+    color: #fff;
     font-size: 19px;
     line-height: 1.4;
     max-width: 620px;
     margin: 0 0 21px;
   }
 
-  strong {
+  .intro > strong {
     color: inherit;
   }
 
@@ -95,7 +95,7 @@
     padding-top: 19px;
     max-width: 650px;
 
-    h3 {
+    > h3 {
       color: #fff;
       font-size: 18px;
       font-weight: bold;
@@ -103,7 +103,7 @@
       margin: 0 0 7px;
     }
 
-    p {
+    > p {
       color: #e3ece4;
       font-size: 16px;
       line-height: 1.45;
