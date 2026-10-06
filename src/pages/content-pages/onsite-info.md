@@ -8,9 +8,7 @@ We are excited for you to join us this week in San Jose for the 2026 OCP Global 
 
 Below, you’ll find helpful information to help prepare you for the event.
 
-**SCHEDULE**\
-Click here to view the [Summit schedule](https://2026ocpglobal.fnvirtual.app/a/schedule/)[](https://2026ocpglobal.fnvirtual.app/a/schedule/)\
-<br/>\
+\
 **PARKING**
 
 LIMITED ON-SITE PARKING: The San Jose McEnery Convention Center has a nominal amount of public parking, which fills up very quickly. Please consider using a rideshare service or public transit when possible. Please note that unlike past years, the South Hall parking lot will not be available during the Summit. [Click HERE](https://www.sanjose.org/trip-ideas/parking) for parking information.
@@ -65,4 +63,13 @@ Need somewhere to chat, check your email, or network with your peers? Head to on
 
 When onsite, attendees must wear their badge at ALL TIMES to access Summit functions. We appreciate your cooperation! 
 
-Staying for a few more days? Click <a href="https://www.sanjose.org/things-to-do" target="_blank" rel="noopener noreferrer">HERE</a> for Things To Do in San Jose.
+Staying for a few more days? Click <a href="https://www.sanjose.org/things-to-do" target="_blank" rel="noopener noreferrer">HERE</a> for Things To Do in San Jose.\
+<br/>\
+**SCHEDULE**
+
+Click here to view the full [Summit schedule](<>)
+
+![](ocp26g-website-hlschedule-v5_65.jpg)
+
+[](<>)
+<br/>
