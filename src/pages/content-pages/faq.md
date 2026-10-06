@@ -9,7 +9,7 @@ Help with your FNid, registration, the event website, and the FNattendee mobile 
 
 ## NEW! See the app in action
 
-[Watch the FNattendee demo on YouTube](<>).
+[Watch the FNattendee demo on YouTube](https://www.youtube.com/shorts/EhSbYk1dsBY).
 
 
 

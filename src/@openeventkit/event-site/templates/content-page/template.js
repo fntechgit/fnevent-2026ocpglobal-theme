@@ -2,7 +2,7 @@ import * as React from "react";
 import { MDXProvider } from "@mdx-js/react";
 import DefaultContentPageTemplate from "@openeventkit/event-site/src/templates/content-page/template";
 import shortcodes from "@openeventkit/event-site/src/templates/content-page/shortcodes";
-import * as styles from "./faq.module.scss";
+import styles from "./faq.module.scss";
 
 const topics = [
   ["signing-in", "Signing in"],
@@ -11,7 +11,7 @@ const topics = [
   ["schedule-and-sessions", "Schedule & sessions"],
   ["profile-privacy-and-networking", "Profile & networking"],
   ["troubleshooting-and-support", "Troubleshooting & support"],
-  ["see-the-app-in-action", "App demo"],
+  ["new-see-the-app-in-action", "App demo"],
 ];
 
 const headingText = (children) => React.Children.toArray(children)
