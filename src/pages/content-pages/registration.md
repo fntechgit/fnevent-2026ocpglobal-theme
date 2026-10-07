@@ -10,7 +10,7 @@ userRequirement: NONE
 
 Thanks to the incredible engagement from the OCP Community, we’ve reached maximum capacity for this year’s Summit in San Jose, **and registration is now closed. Onsite registration will not be offered.**
 
-If you are a speaker or have a previously issued promo code, your spot is reserved; however, you must complete your registration and redeem your code by Tuesday, October 6 at 5:00 PM PT. Redeem [here](https://2026ocpglobal.fnvirtual.app/).
+If you are a speaker or have a previously issued promo code, your spot is reserved. Redeem [here](https://2026ocpglobal.fnvirtual.app/).
 
 **Join the Notification List**
 Should additional tickets become available, those who sign up for the Notification List will be alerted by email. Tickets will be available on a first come, first served basis until they’re gone, so we encourage you to register as soon as you receive the notification.\

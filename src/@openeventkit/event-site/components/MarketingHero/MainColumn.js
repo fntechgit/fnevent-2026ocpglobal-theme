@@ -84,10 +84,7 @@ const MainColumn = ({ location, title, subTitle, date, time, buttons, background
 
         <aside className={styles.reserved} aria-labelledby="reserved-registration-heading">
           <h3 id="reserved-registration-heading">Speakers &amp; existing promo-code holders</h3>
-          <p>
-            Your spot is reserved. Complete your registration and redeem your code by{" "}
-            <strong className={styles.deadline}>Tuesday, October 6 at 5:00 PM PT.</strong>
-          </p>
+          <p>Your spot is reserved.</p>
           <ButtonGroup {...buttons} location={location} />
         </aside>
       </div>
