@@ -6,16 +6,17 @@ userRequirement: NONE
 ---
 [](<>)[](<>)
 
-**<br/>The 2026 OCP Global Summit is officially SOLD OUT!**
+**<br/>Registration Has Reopened – Limited Tickets Available**
 
-Thanks to the incredible engagement from the OCP Community, we’ve reached maximum capacity for this year’s Summit in San Jose, **and registration is now closed. Onsite registration will not be offered.**
+We have reopened registration for a limited number of tickets. Tickets are available on a first-come, first-served basis through the registration link below:
 
-If you are a speaker or have a previously issued promo code, your spot is reserved; however, you must complete your registration and redeem your code by Tuesday, October 6 at 5:00 PM PT. Redeem [here](https://2026ocpglobal.fnvirtual.app/).
+**[REGISTER NOW](https://2026ocpglobal.fnvirtual.app/#registration=1)**
 
-**Join the Notification List**
-Should additional tickets become available, those who sign up for the Notification List will be alerted by email. Tickets will be available on a first come, first served basis until they’re gone, so we encourage you to register as soon as you receive the notification.\
-\
-[Join the Notification List](https://forms.gle/P6UVMcGTDLyAnEYJA)
+Please note before you register:
+
+* Clicking the link above does not guarantee a ticket. The Notification List far exceeds the number of tickets available, and we expect them to go quickly.
+* Once the remaining tickets are claimed, registration will close again.
+* **There will be no onsite registration.** If you do not have a confirmed registration before the event, you will not be able to purchase a ticket at the San Jose Convention Center.
 
 This Summit will be an in-person event. All sessions will be recorded and shared with the Community after the show. Please directly any questions to: [registration@opencompute.org](mailto:registration@opencompute.org)
 
