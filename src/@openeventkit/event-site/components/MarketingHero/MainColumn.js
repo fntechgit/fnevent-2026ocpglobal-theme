@@ -6,15 +6,15 @@ import RegisterButton from "@openeventkit/event-site/src/components/RegisterButt
 import { REGISTRATION_MODE } from "@utils/registrationConstants";
 import useSiteSettings from "@utils/useSiteSettings";
 
-import styles from "./sold-out.module.scss";
+import styles from "./hero.module.scss";
 
-// Keep the platform's configured registration flow, including promo redemption.
+// Keep the platform's configured registration flow.
 const ButtonGroup = ({ location, registerButton, loginButton }) => {
   const siteSettings = useSiteSettings();
   const mode = siteSettings?.registration?.registrationMode || REGISTRATION_MODE.modal;
-  const redeemButton = (
-    <button type="button" className={styles.redeemButton}>
-      {registerButton?.text || "Redeem Now"}
+  const registrationButton = (
+    <button type="button" className={styles.registerButton}>
+      {registerButton?.text || "Register Now"}
       <span aria-hidden="true">→</span>
     </button>
   );
@@ -22,11 +22,11 @@ const ButtonGroup = ({ location, registerButton, loginButton }) => {
   return (
     <div className={styles.heroButtons}>
       {registerButton?.display && (mode === REGISTRATION_MODE.standalone || mode === REGISTRATION_MODE.link) && (
-        <RegisterButton>{redeemButton}</RegisterButton>
+        <RegisterButton>{registrationButton}</RegisterButton>
       )}
       {registerButton?.display && mode === REGISTRATION_MODE.modal && (
         <RegistrationModalComponent location={location}>
-          {redeemButton}
+          {registrationButton}
         </RegistrationModalComponent>
       )}
       {loginButton?.display && (
@@ -56,39 +56,35 @@ const MainColumn = ({ location, title, subTitle, date, time, buttons, background
     : {};
 
   return (
-    <div data-sold-out-hero="true" className={`column ${!fullWidth ? "is-half" : ""} p-0 ${styles.mainColumn}`} style={backgroundImageStyle}>
+    <div data-ocp-hero="true" className={`column ${!fullWidth ? "is-half" : ""} p-0 ${styles.mainColumn}`} style={backgroundImageStyle}>
       <div className={styles.heroBody}>
         {title && <h1 className={styles.eventTitle}>{title}</h1>}
         {subTitle && <p className={styles.subTitle}>{subTitle}</p>}
         {date && <p className={styles.date}>{date} · San Jose</p>}
         {time && <p className={styles.time}>{time}</p>}
 
-        <p className={styles.eyebrow}>Thank you, OCP Community!</p>
-        <h2 className={styles.announcementTitle}>Officially sold out.</h2>
+        <p className={styles.eyebrow}>Limited tickets available</p>
+        <h2 className={styles.announcementTitle}>Registration has reopened.</h2>
         <p className={styles.intro}>
-          Your incredible engagement has brought this year’s Summit to maximum capacity.{" "}
-          <strong>General registration is now closed.</strong>
+          We have reopened registration for a limited number of tickets. Tickets are available on a{" "}
+          <strong>first-come, first-served basis</strong> through the registration link below.
         </p>
-        <a
-          className={styles.notificationButton}
-          href="https://forms.gle/P6UVMcGTDLyAnEYJA"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Join the Notification List <span aria-hidden="true">→</span>
-        </a>
-        <p className={styles.note}>
-          We’ll email you if additional tickets become available. Tickets will be first come,
-          first served—register as soon as you’re notified.
-        </p>
+        <ButtonGroup {...buttons} location={location} />
 
-        <aside className={styles.reserved} aria-labelledby="reserved-registration-heading">
-          <h3 id="reserved-registration-heading">Speakers &amp; existing promo-code holders</h3>
-          <p>
-            Your spot is reserved. Complete your registration and redeem your code by{" "}
-            <strong className={styles.deadline}>Tuesday, October 6 at 5:00 PM PT.</strong>
-          </p>
-          <ButtonGroup {...buttons} location={location} />
+        <aside className={styles.reserved} aria-labelledby="before-you-register-heading">
+          <h3 id="before-you-register-heading">Please note before you register</h3>
+          <ul>
+            <li>
+              Clicking the link above does not guarantee a ticket. The Notification List far exceeds
+              the number of tickets available, and we expect them to go quickly.
+            </li>
+            <li>Once the remaining tickets are claimed, registration will close again.</li>
+            <li>
+              <strong className={styles.deadline}>There will be no onsite registration.</strong> If you do
+              not have a confirmed registration before the event, you will not be able to purchase a
+              ticket at the San Jose Convention Center.
+            </li>
+          </ul>
         </aside>
       </div>
     </div>

@@ -28,7 +28,7 @@ exports.onPostBuild = ({ reporter }) => {
   if (siteSettings.maintenanceMode?.enabled) return;
 
   const homepage = fs.readFileSync(path.join(__dirname, "public/index.html"), "utf8");
-  if (!homepage.includes('data-sold-out-hero="true"')) {
-    reporter.panicOnBuild("The generated homepage is missing the OCP sold-out hero.");
+  if (!homepage.includes('data-ocp-hero="true"')) {
+    reporter.panicOnBuild("The generated homepage is missing the OCP custom hero.");
   }
 };

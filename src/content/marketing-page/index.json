@@ -6,7 +6,7 @@
     "time": "",
     "buttons": {
       "registerButton": {
-        "text": "Redeem Now",
+        "text": "Register Now",
         "display": true
       },
       "loginButton": {
