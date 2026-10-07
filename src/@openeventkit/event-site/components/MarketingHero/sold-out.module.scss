@@ -54,7 +54,7 @@
     color: inherit;
   }
 
-  .registerButton, .accountButton {
+  .notificationButton, .redeemButton, .accountButton {
     display: inline-flex;
     align-items: center;
     justify-content: space-between;
@@ -72,6 +72,24 @@
     }
   }
 
+  .notificationButton {
+    min-height: 51px;
+    padding: 13px 21px;
+    background: #91ce2b;
+    color: #092e0a;
+    font-size: 18px;
+
+    &:hover { background: #b2e864; }
+  }
+
+  .note {
+    color: #deebdf;
+    font-size: 15px;
+    line-height: 1.4;
+    max-width: 600px;
+    margin: 13px 0 24px;
+  }
+
   .reserved {
     border-top: 1px solid #507452;
     padding-top: 19px;
@@ -85,15 +103,11 @@
       margin: 0 0 7px;
     }
 
-    > ul {
+    > p {
       color: #e3ece4;
       font-size: 16px;
       line-height: 1.45;
-      list-style: disc;
-      margin: 0 0 0 20px;
-      padding: 0;
-
-      > li + li { margin-top: 6px; }
+      margin: 0;
     }
   }
 
@@ -104,7 +118,7 @@
     align-items: center;
     flex-wrap: wrap;
     gap: 14px;
-    margin: 0 0 26px;
+    margin-top: 14px;
 
     // The widget uses !important colors; keep disabled actions readable while
     // preserving their disabled state and leaving enabled actions unchanged.
@@ -117,27 +131,21 @@
     }
   }
 
-  .registerButton {
-    min-height: 51px;
-    min-width: 200px;
-    margin: 0;
-    border: 1px solid #91ce2b;
-    background: #91ce2b;
-    color: #092e0a;
-    font-size: 18px;
-    padding: 13px 21px;
-
-    &:hover { background: #b2e864; border-color: #b2e864; }
-  }
-
-  .accountButton {
-    min-height: 51px;
+  .redeemButton, .accountButton {
+    min-height: 44px;
     min-width: 160px;
     margin: 0;
     border: 1px solid #fff;
+    background: #fff;
+    color: #19401e;
     font-size: 16px;
     padding: 11px 20px;
     gap: 10px;
+
+    &:hover { background: #e7f1dc; }
+  }
+
+  .accountButton {
     background: transparent;
     color: #fff;
 
@@ -149,6 +157,7 @@
   .mainColumn {
     .heroBody { padding: 40px; }
     .intro { font-size: 21px; }
+    .note { font-size: 16px; }
   }
 }
 
@@ -166,6 +175,6 @@
     .eventTitle { font-size: 32px; }
     .date { font-size: 20px; margin-bottom: 28px; }
     .announcementTitle { font-size: 29px; }
-    .registerButton { width: 100%; }
+    .notificationButton { width: 100%; }
   }
 }

@@ -6,17 +6,16 @@ userRequirement: NONE
 ---
 [](<>)[](<>)
 
-**<br/>Registration Has Reopened – Limited Tickets Available**
+**<br/>The 2026 OCP Global Summit is officially SOLD OUT!**
 
-We have reopened registration for a limited number of tickets. Tickets are available on a first-come, first-served basis through the registration link below:
+Thanks to the incredible engagement from the OCP Community, we’ve reached maximum capacity for this year’s Summit in San Jose, **and registration is now closed. Onsite registration will not be offered.**
 
-**[REGISTER NOW](https://2026ocpglobal.fnvirtual.app/#registration=1)**
+If you are a speaker or have a previously issued promo code, your spot is reserved; however, you must complete your registration and redeem your code by Tuesday, October 6 at 5:00 PM PT. Redeem [here](https://2026ocpglobal.fnvirtual.app/).
 
-Please note before you register:
-
-* Clicking the link above does not guarantee a ticket. The Notification List far exceeds the number of tickets available, and we expect them to go quickly.
-* Once the remaining tickets are claimed, registration will close again.
-* **There will be no onsite registration.** If you do not have a confirmed registration before the event, you will not be able to purchase a ticket at the San Jose Convention Center.
+**Join the Notification List**
+Should additional tickets become available, those who sign up for the Notification List will be alerted by email. Tickets will be available on a first come, first served basis until they’re gone, so we encourage you to register as soon as you receive the notification.\
+\
+[Join the Notification List](https://forms.gle/P6UVMcGTDLyAnEYJA)
 
 This Summit will be an in-person event. All sessions will be recorded and shared with the Community after the show. Please directly any questions to: [registration@opencompute.org](mailto:registration@opencompute.org)
 
@@ -32,9 +31,9 @@ Pre-Sale Registration: Members & Sponsors - $800	June 3 - July 17
 
 Early Registration: Public - $800	July 18 - July 31
 
-Standard Registration - $1,000	August 1 - October 11
+Standard Registration - $1,000	August 1 - SOLD OUT!
 
-Onsite Registration (If tickets do not sell out prior) - $1,300	October 12-15
+<s>Onsite Registration (If tickets do not sell out prior) - $1,300	October 12-15</s>
 
 Registration fees include: Access to all sessions (keynotes, executive sessions, expo hall sessions, breakout sessions), expo hall, Innovation Village, breakfast, lunch, coffee, snack break, receptions, Future Technologies Symposium and access to all official co-located workshops. 
 
