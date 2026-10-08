@@ -6,15 +6,17 @@ userRequirement: NONE
 ---
 [](<>)[](<>)
 
-**<br/>The 2026 OCP Global Summit is SOLD OUT**
+**<br/>The 2026 OCP Global Summit is officially SOLD OUT!**
 
-The 2026 OCP Global Summit is sold out and registration is now closed. **Onsite registration will not be offered. OCP does not plan to reopen registration.** If you do not have a ticket at this point, you should assume you will not be able to attend.
+Thanks to the incredible engagement from the OCP Community, we’ve reached maximum capacity for this year’s Summit in San Jose, **and registration is now closed. Onsite registration will not be offered. OCP does not plan to reopen registration.** If you do not have a ticket at this point, you should assume you will not be able to attend.
 
-If you are a speaker or have a previously issued promo code, your spot is reserved. Redeem [here](https://2026ocpglobal.fnvirtual.app/).
+If you are a speaker or have a previously issued promo code, your spot is reserved. [Redeem your code here](https://2026ocpglobal.fnvirtual.app/).
 
-OCP posted notice that the Summit would sell out on May 4. We've received hundreds of requests for exceptions, including from people who have already booked travel. As a non-profit Foundation, OCP is committed to being fair to everyone in the Community. Therefore, OCP will not be making individual exceptions.
+OCP posted notice that the Summit would sell out on May 4. We’ve received hundreds of requests for exceptions, including from people who have already booked travel. As a non-profit Foundation, OCP is committed to being fair to everyone in the Community. Therefore, OCP will not be making individual exceptions.
 
-Please note: All Summit sessions will be recorded. The video and slides from all sessions will be posted to the OCP website in the days following the show. Join the OCP Mailing List [here](https://mailchi.mp/opencompute/subscribe-to-ocp) so you don’t miss out on future announcements.
+Please note: All Summit sessions will be recorded. The video and slides from all sessions will be posted to the OCP website in the days following the show. Join the OCP Mailing List below so you don’t miss out on future announcements.
+
+**[Subscribe to OCP](https://mailchi.mp/opencompute/subscribe-to-ocp)**
 
 Please direct any questions to: [registration@opencompute.org](mailto:registration@opencompute.org)
 
