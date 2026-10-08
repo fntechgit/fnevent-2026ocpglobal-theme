@@ -38,19 +38,17 @@ Standard Registration - $1,000	August 1 - SOLD OUT!
 
 Registration fees include: Access to all sessions (keynotes, executive sessions, expo hall sessions, breakout sessions), expo hall, Innovation Village, breakfast, lunch, coffee, snack break, receptions, Future Technologies Symposium and access to all official co-located workshops. 
 
-[Click Here to Register Now](https://2026ocpglobal.fnvirtual.app/#registration=1)
-
 **<br/>Cancellation Policy**
 
 A request to cancel your ticket must be emailed to [registration@opencompute.org](mailto:registration@opencompute.org). The last day to receive a full refund is Sept 3. No refunds will be given after Sept 3.
 
-**<br/>Media and Press Registration**
-
-<a href="https://forms.gle/TnU9ahSX7EQgZBQR8" target="_blank" rel="noopener noreferrer">Click here</a> to register for a media pass. Media passes are only for legitimate members of the analyst and journalist community. After receiving your request, someone from OCP will reach out to you within 3 business days.
-
 **<br/>Transfer a Ticket to Someone Else**
 
 Change of plans? Your can transfer your registration ticket to someone else before it has been redeemed for an event badge at registration. Please log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options. Note: Only the ticket purchaser may transfer a ticket to someone else.
+
+**<br/>Onsite Badge Transfer Program**
+
+We’ve heard from the Community that you want greater flexibility to have different staff attend different days of the Summit, rather than assigning one person to a full-week pass. To accommodate this, we will offer a limited onsite badge transfer option. <a href="https://www.opencompute.org/wp-content/uploads/2026/10/Onsite-Badge-Transfers-Public-Link-2.pdf" target="_blank" rel="noopener noreferrer">Click here</a> for details and rules on this program.
 
 **<br/>Badge Sharing**
 
