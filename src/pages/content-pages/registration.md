@@ -20,12 +20,6 @@ Please note: All Summit sessions will be recorded. The video and slides from all
 
 Please direct any questions to: [registration@opencompute.org](mailto:registration@opencompute.org)
 
-Reminders:
-
-The following attendee types receive free passes: Board & Advisory Board Members, Steering Committee, Volunteer Leads, Speakers, Media, Sponsors (certain allotment each).  Promo codes will be distributed after July 22.
-Sponsors - Bulk Purchasing will still operate as normal - reach out to your sponsor manager for those.
-You do not need to immediately assign your tickets. They will be loaded into your account and may be assigned to individuals later via the My Orders/Tickets tab.
-
 **<br/>Registration Options – SOLD OUT**
 
 Pre-Sale Registration: Members & Sponsors - $800	June 3 - July 17
@@ -55,3 +49,7 @@ We’ve heard from the Community that you want greater flexibility to have diffe
 Badge sharing/swapping/trading is considered theft and is strictly prohibited at OCP events. Attendees must wear their badge at all times on the event premises and that badge must match their ID. Any attendee caught without a badge will be escorted to registration to show an ID and charged a reprint fee if the badge cannot be found. If caught wearing another attendee's badge or leaving the premises with multiple badges with the intent to distribute to other attendees, all badges will be confiscated and this person may be removed from the event. OCP keeps historical records of companies and sponsors who are regular offenders of badge sharing/swapping/trading. OCP reserves the right to deny attendance, sponsorship, and speaking opportunities to any individuals or organizations that do not abide by OCP event regulations.
 
 <a href="https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/9c1c5916072b8e33fdbba2537947b86c768372f3.pdf" target="_blank" rel="noopener noreferrer">Click here</a> to view the OCP event Terms and Conditions (PDF)
+
+**<br/>Visa Letters**
+
+We are happy to assist with a visa invitation letter for you to attend the 2026 OCP Global Summit. <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_SucalVSLy4SdRUH_fIQ-6ESTuKagoh82guFmlWBAZugcgg/viewform" target="_blank" rel="noopener noreferrer">Click here</a> to complete the form.
