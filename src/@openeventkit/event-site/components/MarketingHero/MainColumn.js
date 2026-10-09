@@ -64,23 +64,28 @@ const MainColumn = ({ location, title, subTitle, date, time, buttons, background
         {time && <p className={styles.time}>{time}</p>}
 
         <p className={styles.eyebrow}>Thank you, OCP Community!</p>
-        <h2 className={styles.announcementTitle}>Officially sold out.</h2>
+        <h2 className={styles.announcementTitle}>Sold out. Registration is closed.</h2>
         <p className={styles.intro}>
-          Your incredible engagement has brought this year’s Summit to maximum capacity.{" "}
-          <strong>General registration is now closed.</strong>
+          The 2026 OCP Global Summit is sold out and registration is now closed.{" "}
+          <strong>Onsite registration will not be offered, and OCP does not plan to reopen registration.</strong>{" "}
+          If you do not have a ticket at this point, you should assume you will not be able to attend.
+        </p>
+        <p className={styles.note}>
+          OCP posted notice that the Summit would sell out on May 4. As a non-profit Foundation, OCP is
+          committed to being fair to everyone in the Community and will not be making individual exceptions.
+        </p>
+        <p className={styles.note}>
+          All Summit sessions will be recorded. The video and slides from all sessions will be posted to the
+          OCP website in the days following the show.
         </p>
         <a
           className={styles.notificationButton}
-          href="https://forms.gle/P6UVMcGTDLyAnEYJA"
+          href="https://mailchi.mp/opencompute/subscribe-to-ocp"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Join the Notification List <span aria-hidden="true">→</span>
+          Join the OCP Mailing List <span aria-hidden="true">→</span>
         </a>
-        <p className={styles.note}>
-          We’ll email you if additional tickets become available. Tickets will be first come,
-          first served—register as soon as you’re notified.
-        </p>
 
         <aside className={styles.reserved} aria-labelledby="reserved-registration-heading">
           <h3 id="reserved-registration-heading">Speakers &amp; existing promo-code holders</h3>
