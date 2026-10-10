@@ -36,11 +36,11 @@ Registration fees include: Access to all sessions (keynotes, executive sessions,
 
 A request to cancel your ticket must be emailed to [registration@opencompute.org](mailto:registration@opencompute.org). The last day to receive a full refund is Sept 3. No refunds will be given after Sept 3.
 
-**<br/>Transfer a Ticket to Someone Else**
+**<br/>[Before the Show] Transfer a Ticket to Someone Else**
 
-Change of plans? Your can transfer your registration ticket to someone else before it has been redeemed for an event badge at registration. Please log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options. Note: Only the ticket purchaser may transfer a ticket to someone else.
+Change of plans? You can transfer your registration ticket to someone else **before your badge has been printed** onsite. Please log in to the Summit Platform and choose the **“My Orders/Tickets”** tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options. **Note**: Only the ticket purchaser may transfer a ticket to someone else.
 
-**<br/>Onsite Badge Transfer Program**
+**<br/>[During the Show] Onsite Badge Transfer Program**
 
 We’ve heard from the Community that you want greater flexibility to have different staff attend different days of the Summit, rather than assigning one person to a full-week pass. To accommodate this, we will offer a limited onsite badge transfer option. <a href="https://www.opencompute.org/wp-content/uploads/2026/10/Onsite-Badge-Transfers-Public-Link-2.pdf" target="_blank" rel="noopener noreferrer">Click here</a> for details and rules on this program.
 
