@@ -26,6 +26,9 @@
   border-bottom: 1px solid var(--faq-line);
 }
 
+.heroSimple { grid-template-columns: 1fr; padding-bottom: 32px; }
+.mobileHelp { display: none; }
+
 .faq .eyebrow { font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 12px; }
 .intro { color: var(--faq-muted); font-size: 20px; line-height: 1.5; }
 .faq .primaryLink { display: inline-flex; align-items: center; gap: 24px; color: var(--faq-ink); background: var(--faq-green); padding: 13px 20px; border-radius: 6px; font-weight: 700; margin-top: 12px; }
@@ -67,6 +70,13 @@
   ul { list-style: disc; }
   ol { list-style: decimal; }
   li { padding-left: 4px; margin-bottom: 8px; }
+  img { max-width: 100%; height: auto; }
+  table { width: 100%; border-collapse: collapse; margin: 8px 0 24px; font-size: 16px; line-height: 1.5; }
+  th, td { text-align: left; vertical-align: top; padding: 10px 12px; border-bottom: 1px solid var(--faq-line); }
+  thead th { background: #eef4f4; font-weight: 700; border-bottom: 2px solid #c9d6d8; }
+  td em { color: var(--faq-muted); }
+  blockquote { margin: 0 0 24px; padding: 14px 18px; background: #f7fbe9; border-left: 4px solid #82b83e; border-radius: 6px; }
+  blockquote p { margin: 0; }
 }
 
 .support {
@@ -88,6 +98,8 @@
   .sidebar { position: static; nav ul { display: grid; grid-template-columns: 1fr 1fr; gap: 0 16px; } }
   .sidebarHelp { display: none; }
   .answers h2 { scroll-margin-top: 100px; }
+  .answers table { display: block; overflow-x: auto; }
+  .mobileHelp { display: block; border-top: 1px solid var(--faq-line); margin-top: 40px; padding-top: 24px; font-weight: 700; }
 }
 
 @media (max-width: 480px) {

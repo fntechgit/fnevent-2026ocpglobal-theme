@@ -4,55 +4,74 @@ title: Onsite Info
 slug: onsite-info
 userRequirement: NONE
 ---
-We are excited for you to join us this week in San Jose for the 2026 OCP Global Summit!
 
-Below, you’ll find helpful information to help prepare you for the event.
+We’re excited to see you in San Jose for the 2026 OCP Global Summit! Here’s everything you need for the week, in the order you’ll need it.
+
+## AT A GLANCE
+
+<table>
+  <thead><tr><th>What</th><th>Details</th></tr></thead>
+  <tbody>
+    <tr><td><strong>Badge pickup</strong></td><td>The Hub, near the main entrance of the San Jose McEnery Convention Center. <strong>Bring a photo ID.</strong></td></tr>
+    <tr><td><strong>Opening keynote</strong></td><td>Monday, Oct. 12 at 4:00 PM in South Hall. Pick up your badge early to avoid the line.</td></tr>
+    <tr><td><strong>Your badge</strong></td><td>Wear it at all times to access Summit functions.</td></tr>
+    <tr><td><strong>Parking</strong></td><td>Very limited, and the South Hall lot is closed this year. Use rideshare, transit, or a hotel shuttle.</td></tr>
+    <tr><td><strong>Registration</strong></td><td>The Summit is sold out. There is no onsite registration.</td></tr>
+  </tbody>
+</table>
 
 
-### PARKING
+## BEFORE YOU GO
 
-LIMITED ON-SITE PARKING: The San Jose McEnery Convention Center has a nominal amount of public parking, which fills up very quickly. Please consider using a rideshare service or public transit when possible. Please note that unlike past years, the South Hall parking lot will not be available during the Summit. [Click HERE](https://www.sanjose.org/trip-ideas/parking) for parking information.
+### Getting there and parking
 
-<br/>
+The convention center has very little public parking, and it fills up quickly. Unlike past years, **the South Hall parking lot will not be available** during the Summit. Please use rideshare, public transit, or one of the free hotel shuttles (see [Getting around](#getting-around) below). [Parking information](https://www.sanjose.org/trip-ideas/parking)
 
-### REGISTRATION
+### Can’t make it? Transfer your ticket
 
-Registration will be open in The Hub, near main entrance of the convention center during these times:
+- **Before the show:** you can transfer your ticket to someone else before your badge has been printed. Log in to the Summit Platform, open the **“My Orders/Tickets”** tab (top right of the navigation bar), select the ticket, and choose **“Reassign.”** Only the ticket purchaser can transfer a ticket.
+- **During the show:** a limited onsite badge transfer option lets different staff attend on different days. <a href="https://www.opencompute.org/wp-content/uploads/2026/10/Onsite-Badge-Transfers-Public-Link-2.pdf" target="_blank" rel="noopener noreferrer">See the details and rules</a>.
 
-* Monday: 11am-7pm
-* Tuesday: 7:30am-7pm
-* Wednesday: 7:30am-5pm
-* Thursday: 7:30am-4pm
-* Please bring your photo ID for badge pickup
 
-Your registration fee includes access to all sessions (Keynotes, Executive and Breakout, and the Expo Hall Theater), the Expo Hall, Innovation Village, breakfast, lunch, coffee, snack breaks, evening receptions, Future Technologies Symposium, and all official co-located events.
+## BADGE PICKUP
 
-<br/>
+Badge pickup is in **The Hub**, near the main entrance of the convention center. **Bring a photo ID.**
 
-### TICKET TRANSFER
+<table>
+  <thead><tr><th>Day</th><th>Hours</th></tr></thead>
+  <tbody>
+    <tr><td><strong>Monday, Oct. 12</strong></td><td>11:00 AM – 7:00 PM</td></tr>
+    <tr><td><strong>Tuesday, Oct. 13</strong></td><td>7:30 AM – 7:00 PM</td></tr>
+    <tr><td><strong>Wednesday, Oct. 14</strong></td><td>7:30 AM – 5:00 PM</td></tr>
+    <tr><td><strong>Thursday, Oct. 15</strong></td><td>7:30 AM – 4:00 PM</td></tr>
+  </tbody>
+</table>
 
-Change of plans? You may now transfer your ticket to someone else before check-in. Log in to the Summit Platform and choose the “My Orders/Tickets” tab from the top-right hand side of the navigation bar. Click on the ticket you wish to transfer and select “Reassign” from the options.
+> 💡 **Tip:** Lines are longest on Monday right before the 4:00 PM keynote. Pick up your badge early.
 
-<br/>
 
-### KEYNOTES 
+## KEYNOTES
 
-Keynotes take place on Monday from 4–6:00pm and Tuesday from 9–11:30am and will be held in the South Hall behind the main center building. We highly recommend that you pick up your badge early on Monday to avoid the long lines right before keynotes start!
+Keynotes are in **South Hall**, behind the main convention center building. It’s a 3–5 minute walk from the main entrance.
 
-<a href="https://2026ocpglobal.fnvirtual.app/map/" target="_blank" rel="noopener noreferrer">CLICK HERE TO VIEW THE VENUE MAP</a>
+<table>
+  <thead><tr><th>Day</th><th>Time</th></tr></thead>
+  <tbody>
+    <tr><td><strong>Monday, Oct. 12</strong></td><td>4:00 PM – 6:00 PM</td></tr>
+    <tr><td><strong>Tuesday, Oct. 13</strong></td><td>9:00 AM – 11:30 AM</td></tr>
+  </tbody>
+</table>
 
-<br/>
+Need help getting there? The free ADA shuttle runs from the main entrance (San Carlos St.) to South Hall; see [Getting around](#getting-around).
 
-It’s a short 3 to 5-minute walk to get to South Hall. For those who need assistance, we will be running small passenger shuttles from the main convention center entrance (San Carlos St.) to South Hall. 
+<a href="https://2026ocpglobal.fnvirtual.app/map/" target="_blank" rel="noopener noreferrer">VIEW THE VENUE MAP</a>
 
-<br/>
-### SHUTTLE SERVICE
 
-OCP provides two types of free shuttles. 
+## GETTING AROUND
 
-### ADA SHUTTLE
+OCP runs two free shuttles: an **ADA shuttle** around the venue and **hotel shuttles** to and from partner hotels.
 
-##### Hours
+### ADA shuttle (around the venue)
 
 <table>
   <thead><tr><th>Day</th><th>Hours</th></tr></thead>
@@ -64,19 +83,17 @@ OCP provides two types of free shuttles.
   </tbody>
 </table>
 
-##### Shuttle Stop Locations
+**Stops:**
 
-- San Carlos Street in front of the main entrance
-- Viola Avenue near the South Hall
-- Hall 3 Rear Doors (during Expo Hall hours)
+- San Carlos Street, in front of the main entrance
+- Viola Avenue, near South Hall
+- Hall 3 rear doors (during Expo Hall hours)
 
-### LIMITED HOTEL SHUTTLES
+### Hotel shuttles (hotels ⇄ convention center)
 
-Hotels ⇄ San Jose McEnery Convention Center
+> ⚠️ **Arrive early.** No reservation is needed, but seats are limited. If a shuttle is full, wait for the next one. Shuttles loop continuously during the hours below.
 
-> ⚠️ **Arrive Early.** Seats are limited and there are no reservations needed. If the shuttle is full, please wait for the next one. Shuttles will loop continuously during the hours below.
-
-#### Step 1: Find Your Hotel and Designated Color
+**1. Find your hotel’s color**
 
 <table>
   <thead><tr><th>🔴 Red</th><th>🔵 Blue</th><th>🟢 Green</th><th>🟡 Yellow</th></tr></thead>
@@ -88,45 +105,44 @@ Hotels ⇄ San Jose McEnery Convention Center
   </tbody>
 </table>
 
-#### Step 2: Check the Times
+**2. Check the times**
 
 <table>
   <thead><tr><th>Day</th><th>Hotel → Convention Center</th><th>Convention Center → Hotel</th></tr></thead>
   <tbody>
-    <tr><td><strong>Monday, Oct 12</strong></td><td>2:00 PM–7:00 PM (about every 30 minutes)</td><td>2:00 PM–7:00 PM (about every 30 minutes)</td></tr>
-    <tr><td><strong>Tuesday, Oct 13</strong> and <strong>Wednesday, Oct 14</strong></td><td>7:00 AM–11:00 AM</td><td>3:30 PM–7:30 PM</td></tr>
-    <tr><td><strong>Thursday, Oct 15</strong></td><td>7:00 AM–11:00 AM</td><td>1:00 PM–5:00 PM <em>(fewer shuttles)</em></td></tr>
+    <tr><td><strong>Monday, Oct. 12</strong></td><td>2:00 PM – 7:00 PM <em>(about every 30 min)</em></td><td>2:00 PM – 7:00 PM <em>(about every 30 min)</em></td></tr>
+    <tr><td><strong>Tuesday, Oct. 13</strong> &amp; <strong>Wednesday, Oct. 14</strong></td><td>7:00 AM – 11:00 AM</td><td>3:30 PM – 7:30 PM</td></tr>
+    <tr><td><strong>Thursday, Oct. 15</strong></td><td>7:00 AM – 11:00 AM</td><td>1:00 PM – 5:00 PM <em>(fewer shuttles)</em></td></tr>
   </tbody>
 </table>
 
-#### Step 3: Board Your Shuttle
+**3. Board your shuttle**
 
-- **Morning:** Wait in front of the hotels listed above. Look for a sign in your designated color.
-- **Afternoon:** Go to the San Jose McEnery Convention Center pickup spot (located on South Almaden Blvd., Hilton side). Look for a sign in your color.
-- **Ride time:** 10–35 minutes
+- **Mornings:** wait in front of your hotel and look for the sign in your color.
+- **Afternoons:** go to the convention center pickup spot on **South Almaden Blvd. (Hilton side)** and look for the sign in your color.
+- **Ride time:** 10–35 minutes.
 
-#### Important
+**Plan ahead:**
 
-- **Monday: The opening Keynote Session begins at 4:00 PM.** Shuttles will be extra busy beforehand; please leave your hotel early.
-- **Thursday: The final day.** There will be fewer shuttles. Need your luggage? Leave extra time.
-- **In a hurry?** Arrange for ride-share or taxi service.
-<br/>
+- **Monday:** the opening keynote starts at **4:00 PM**, and shuttles will be extra busy beforehand. Leave your hotel early.
+- **Thursday:** final day, with fewer shuttles. Leave extra time if you need your luggage.
+- **In a hurry?** Use a rideshare or taxi.
 
-### HELPFUL INFO
 
-All sessions will be recorded. Session videos and slides will be posted to the OCP Past Events page [here](https://www.opencompute.org/events/past-events) in the weeks following Summit.
+## DURING THE SUMMIT
 
-Need somewhere to chat, check your email, or network with your peers? Head to one of the parks in the Expo Hall. They are a perfect spot to connect, relax, unwind, and take a break in between sessions.
+- **Your badge gets you in.** Wear it at all times to access Summit functions. Thank you for your cooperation!
+- **What’s included:** all sessions (Keynotes, Executive and Breakout, and the Expo Hall Theater), the Expo Hall, Innovation Village, breakfast, lunch, coffee and snack breaks, evening receptions, the Future Technologies Symposium, and all official co-located events.
+- **Need a break?** The parks in the Expo Hall are a great place to chat, check email, network, or recharge between sessions.
 
-When onsite, attendees must wear their badge at ALL TIMES to access Summit functions. We appreciate your cooperation! 
+### Schedule
 
-Staying for a few more days? Click <a href="https://www.sanjose.org/things-to-do" target="_blank" rel="noopener noreferrer">HERE</a> for Things To Do in San Jose.
-<br/>
-### SCHEDULE
-
-Click here to view the full [Summit schedule](/a/schedule/)
+View the full [Summit schedule](/a/schedule/).
 
 ![](ocp26g-website-hlschedule-v5_65.jpg)
 
-[](<>)
-<br/>
+
+## AFTER THE SUMMIT
+
+- **Missed a session?** All sessions will be recorded. Video and slides will be posted to the [OCP Past Events page](https://www.opencompute.org/events/past-events) in the days following the Summit.
+- **Staying a few extra days?** See <a href="https://www.sanjose.org/things-to-do" target="_blank" rel="noopener noreferrer">things to do in San Jose</a>.
