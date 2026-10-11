@@ -7,7 +7,7 @@ userRequirement: NONE
 
 We’re excited to see you in San Jose for the 2026 OCP Global Summit! Here’s everything you need for the week, in the order you’ll need it.
 
-### AT A GLANCE
+## AT A GLANCE
 
 <table>
   <thead><tr><th>What</th><th>Details</th></tr></thead>
@@ -20,22 +20,20 @@ We’re excited to see you in San Jose for the 2026 OCP Global Summit! Here’s 
   </tbody>
 </table>
 
-<br/>
 
-### BEFORE YOU GO
+## BEFORE YOU GO
 
-#### Getting there and parking
+### Getting there and parking
 
-The convention center has very little public parking, and it fills up quickly. Unlike past years, **the South Hall parking lot will not be available** during the Summit. Please use rideshare, public transit, or one of the free hotel shuttles (see Getting Around below). [Parking information](https://www.sanjose.org/trip-ideas/parking)
+The convention center has very little public parking, and it fills up quickly. Unlike past years, **the South Hall parking lot will not be available** during the Summit. Please use rideshare, public transit, or one of the free hotel shuttles (see [Getting around](#getting-around) below). [Parking information](https://www.sanjose.org/trip-ideas/parking)
 
-#### Can’t make it? Transfer your ticket
+### Can’t make it? Transfer your ticket
 
 - **Before the show:** you can transfer your ticket to someone else before your badge has been printed. Log in to the Summit Platform, open the **“My Orders/Tickets”** tab (top right of the navigation bar), select the ticket, and choose **“Reassign.”** Only the ticket purchaser can transfer a ticket.
 - **During the show:** a limited onsite badge transfer option lets different staff attend on different days. <a href="https://www.opencompute.org/wp-content/uploads/2026/10/Onsite-Badge-Transfers-Public-Link-2.pdf" target="_blank" rel="noopener noreferrer">See the details and rules</a>.
 
-<br/>
 
-### WHEN YOU ARRIVE: BADGE PICKUP
+## BADGE PICKUP
 
 Badge pickup is in **The Hub**, near the main entrance of the convention center. **Bring a photo ID.**
 
@@ -51,9 +49,8 @@ Badge pickup is in **The Hub**, near the main entrance of the convention center.
 
 > 💡 **Tip:** Lines are longest on Monday right before the 4:00 PM keynote. Pick up your badge early.
 
-<br/>
 
-### KEYNOTES
+## KEYNOTES
 
 Keynotes are in **South Hall**, behind the main convention center building. It’s a 3–5 minute walk from the main entrance.
 
@@ -65,17 +62,16 @@ Keynotes are in **South Hall**, behind the main convention center building. It�
   </tbody>
 </table>
 
-Need help getting there? The free ADA shuttle runs from the main entrance (San Carlos St.) to South Hall; see below.
+Need help getting there? The free ADA shuttle runs from the main entrance (San Carlos St.) to South Hall; see [Getting around](#getting-around).
 
 <a href="https://2026ocpglobal.fnvirtual.app/map/" target="_blank" rel="noopener noreferrer">VIEW THE VENUE MAP</a>
 
-<br/>
 
-### GETTING AROUND
+## GETTING AROUND
 
 OCP runs two free shuttles: an **ADA shuttle** around the venue and **hotel shuttles** to and from partner hotels.
 
-#### ADA Shuttle (around the venue)
+### ADA shuttle (around the venue)
 
 <table>
   <thead><tr><th>Day</th><th>Hours</th></tr></thead>
@@ -93,7 +89,7 @@ OCP runs two free shuttles: an **ADA shuttle** around the venue and **hotel shut
 - Viola Avenue, near South Hall
 - Hall 3 rear doors (during Expo Hall hours)
 
-#### Hotel Shuttles (hotels ⇄ convention center)
+### Hotel shuttles (hotels ⇄ convention center)
 
 > ⚠️ **Arrive early.** No reservation is needed, but seats are limited. If a shuttle is full, wait for the next one. Shuttles loop continuously during the hours below.
 
@@ -132,23 +128,21 @@ OCP runs two free shuttles: an **ADA shuttle** around the venue and **hotel shut
 - **Thursday:** final day, with fewer shuttles. Leave extra time if you need your luggage.
 - **In a hurry?** Use a rideshare or taxi.
 
-<br/>
 
-### DURING THE SUMMIT
+## DURING THE SUMMIT
 
 - **Your badge gets you in.** Wear it at all times to access Summit functions. Thank you for your cooperation!
 - **What’s included:** all sessions (Keynotes, Executive and Breakout, and the Expo Hall Theater), the Expo Hall, Innovation Village, breakfast, lunch, coffee and snack breaks, evening receptions, the Future Technologies Symposium, and all official co-located events.
 - **Need a break?** The parks in the Expo Hall are a great place to chat, check email, network, or recharge between sessions.
 
-#### Schedule
+### Schedule
 
 View the full [Summit schedule](/a/schedule/).
 
 ![](ocp26g-website-hlschedule-v5_65.jpg)
 
-<br/>
 
-### AFTER THE SUMMIT
+## AFTER THE SUMMIT
 
 - **Missed a session?** All sessions will be recorded. Video and slides will be posted to the [OCP Past Events page](https://www.opencompute.org/events/past-events) in the days following the Summit.
 - **Staying a few extra days?** See <a href="https://www.sanjose.org/things-to-do" target="_blank" rel="noopener noreferrer">things to do in San Jose</a>.

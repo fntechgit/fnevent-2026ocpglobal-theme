@@ -14,6 +14,16 @@ const topics = [
   ["new-see-the-app-in-action", "App demo"],
 ];
 
+const onsiteTopics = [
+  ["at-a-glance", "At a glance"],
+  ["before-you-go", "Before you go"],
+  ["badge-pickup", "Badge pickup"],
+  ["keynotes", "Keynotes"],
+  ["getting-around", "Getting around"],
+  ["during-the-summit", "During the Summit"],
+  ["after-the-summit", "After the Summit"],
+];
+
 const headingText = (children) => React.Children.toArray(children)
   .map((child) => React.isValidElement(child) ? headingText(child.props.children) : String(child))
   .join("");
@@ -24,8 +34,53 @@ const TopicHeading = ({ children, ...props }) => (
   </h2>
 );
 
+const TopicNav = ({ label, eyebrow, topics }) => (
+  <nav aria-label={label}>
+    <p className={styles.eyebrow}>{eyebrow}</p>
+    <ul>
+      {topics.map(([id, text], index) => (
+        <li key={id}>
+          <a href={`#${id}`}><span aria-hidden="true">{String(index + 1).padStart(2, "0")}</span>{text}</a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+);
+
+const OnsiteInfoPage = ({ content }) => (
+  <div className={styles.faq}>
+    <header className={`${styles.hero} ${styles.heroSimple}`}>
+      <div>
+        <p className={styles.eyebrow}>2026 OCP Global Summit · San Jose · Oct. 12–15</p>
+        <h1>Onsite info</h1>
+        <p className={styles.intro}>Badge pickup, keynotes, shuttles and everything else you need for the week.</p>
+      </div>
+    </header>
+
+    <div className={styles.layout}>
+      <aside className={styles.sidebar}>
+        <TopicNav label="Onsite info sections" eyebrow="On this page" topics={onsiteTopics} />
+        <div className={styles.sidebarHelp}>
+          <p>Questions?</p>
+          <a href="mailto:registration@opencompute.org?subject=2026%20OCP%20Global%20Summit%20onsite%20question">registration@opencompute.org</a>
+        </div>
+      </aside>
+
+      <article className={styles.answers} aria-label="Onsite information">
+        <MDXProvider components={{ ...shortcodes, h2: TopicHeading }}>
+          {content}
+        </MDXProvider>
+      </article>
+    </div>
+  </div>
+);
+
 // Keep the body in CMS/native-compatible Markdown; presentation belongs to the web theme.
 const ContentPageTemplate = ({ title, content }) => {
+  if (title === "Onsite Info") {
+    return <OnsiteInfoPage content={content} />;
+  }
+
   if (title !== "FAQ") {
     return <DefaultContentPageTemplate title={title} content={content} />;
   }
@@ -53,16 +108,7 @@ const ContentPageTemplate = ({ title, content }) => {
 
       <div className={styles.layout}>
         <aside className={styles.sidebar}>
-          <nav aria-label="FAQ topics">
-            <p className={styles.eyebrow}>Find your answer</p>
-            <ul>
-              {topics.map(([id, label], index) => (
-                <li key={id}>
-                  <a href={`#${id}`}><span aria-hidden="true">{String(index + 1).padStart(2, "0")}</span>{label}</a>
-                </li>
-              ))}
-            </ul>
-          </nav>
+          <TopicNav label="FAQ topics" eyebrow="Find your answer" topics={topics} />
           <div className={styles.sidebarHelp}>
             <p>Still need a hand?</p>
             <a href="#faq-contact">Contact the right team <span aria-hidden="true">↓</span></a>
