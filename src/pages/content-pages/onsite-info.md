@@ -46,11 +46,11 @@ Keynotes take place on Monday from 4–6:00pm and Tuesday from 9–11:30am and w
 It’s a short 3 to 5-minute walk to get to South Hall. For those who need assistance, we will be running small passenger shuttles from the main convention center entrance (San Carlos St.) to South Hall. 
 
 <br/>
-### SHUTTLE SERVICE: 
+### SHUTTLE SERVICE
 
 OCP provides two types of free shuttles. 
 
-### ADA Shuttle
+### ADA SHUTTLE
 
 ##### Hours
 
@@ -70,7 +70,7 @@ OCP provides two types of free shuttles.
 - Viola Avenue near the South Hall
 - Hall 3 Rear Doors (during Expo Hall hours)
 
-### Limited Hotel Shuttles 
+### LIMITED HOTEL SHUTTLES
 
 Hotels ⇄ San Jose McEnery Convention Center
 
@@ -124,7 +124,7 @@ Staying for a few more days? Click <a href="https://www.sanjose.org/things-to-do
 <br/>
 ### SCHEDULE
 
-Click here to view the full [Summit schedule](<>)
+Click here to view the full [Summit schedule](/a/schedule/)
 
 ![](ocp26g-website-hlschedule-v5_65.jpg)
 
