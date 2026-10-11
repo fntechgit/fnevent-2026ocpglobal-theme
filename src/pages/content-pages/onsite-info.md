@@ -96,12 +96,12 @@ OCP runs two free shuttles: an **ADA shuttle** around the venue and **hotel shut
 **1. Find your hotel’s color**
 
 <table>
-  <thead><tr><th>🔴 Red</th><th>🔵 Blue</th><th>🟢 Green</th><th>🟡 Yellow</th></tr></thead>
+  <thead><tr><th>Color</th><th>Hotels</th></tr></thead>
   <tbody>
-    <tr><td>DoubleTree</td><td>Fairfield Airport</td><td>Homewood Suites</td><td>Residence Inn North</td></tr>
-    <tr><td></td><td>Sonesta <em>(wait at Fairfield Airport)</em></td><td>Spark</td><td>Fairfield North <em>(wait at Residence Inn North)</em></td></tr>
-    <tr><td></td><td>Holiday Inn</td><td>Residence Inn Airport</td><td>Courtyard</td></tr>
-    <tr><td></td><td></td><td>SpringHill Suites <em>(wait at Residence Inn Airport)</em></td><td>Hyatt House</td></tr>
+    <tr><td><strong>🔴 Red</strong></td><td>DoubleTree</td></tr>
+    <tr><td><strong>🔵 Blue</strong></td><td>Fairfield Airport<br/>Sonesta <em>(wait at Fairfield Airport)</em><br/>Holiday Inn</td></tr>
+    <tr><td><strong>🟢 Green</strong></td><td>Homewood Suites<br/>Spark<br/>Residence Inn Airport<br/>SpringHill Suites <em>(wait at Residence Inn Airport)</em></td></tr>
+    <tr><td><strong>🟡 Yellow</strong></td><td>Residence Inn North<br/>Fairfield North <em>(wait at Residence Inn North)</em><br/>Courtyard<br/>Hyatt House</td></tr>
   </tbody>
 </table>
 
@@ -110,9 +110,9 @@ OCP runs two free shuttles: an **ADA shuttle** around the venue and **hotel shut
 <table>
   <thead><tr><th>Day</th><th>Hotel → Convention Center</th><th>Convention Center → Hotel</th></tr></thead>
   <tbody>
-    <tr><td><strong>Monday, Oct. 12</strong></td><td>2:00 PM – 7:00 PM <em>(about every 30 min)</em></td><td>2:00 PM – 7:00 PM <em>(about every 30 min)</em></td></tr>
-    <tr><td><strong>Tuesday, Oct. 13</strong> &amp; <strong>Wednesday, Oct. 14</strong></td><td>7:00 AM – 11:00 AM</td><td>3:30 PM – 7:30 PM</td></tr>
-    <tr><td><strong>Thursday, Oct. 15</strong></td><td>7:00 AM – 11:00 AM</td><td>1:00 PM – 5:00 PM <em>(fewer shuttles)</em></td></tr>
+    <tr><td><strong>Monday, Oct. 12</strong></td><td data-label="Hotel → Convention Center">2:00 PM – 7:00 PM <em>(about every 30 min)</em></td><td data-label="Convention Center → Hotel">2:00 PM – 7:00 PM <em>(about every 30 min)</em></td></tr>
+    <tr><td><strong>Tuesday, Oct. 13</strong> &amp; <strong>Wednesday, Oct. 14</strong></td><td data-label="Hotel → Convention Center">7:00 AM – 11:00 AM</td><td data-label="Convention Center → Hotel">3:30 PM – 7:30 PM</td></tr>
+    <tr><td><strong>Thursday, Oct. 15</strong></td><td data-label="Hotel → Convention Center">7:00 AM – 11:00 AM</td><td data-label="Convention Center → Hotel">1:00 PM – 5:00 PM <em>(fewer shuttles)</em></td></tr>
   </tbody>
 </table>
 
