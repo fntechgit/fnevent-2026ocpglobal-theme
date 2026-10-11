@@ -27,6 +27,7 @@
 }
 
 .heroSimple { grid-template-columns: 1fr; padding-bottom: 32px; }
+.mobileHelp { display: none; }
 
 .faq .eyebrow { font-size: 12px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 12px; }
 .intro { color: var(--faq-muted); font-size: 20px; line-height: 1.5; }
@@ -98,6 +99,7 @@
   .sidebarHelp { display: none; }
   .answers h2 { scroll-margin-top: 100px; }
   .answers table { display: block; overflow-x: auto; }
+  .mobileHelp { display: block; border-top: 1px solid var(--faq-line); margin-top: 40px; padding-top: 24px; font-weight: 700; }
 }
 
 @media (max-width: 480px) {

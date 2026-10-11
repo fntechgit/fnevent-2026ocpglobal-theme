@@ -70,6 +70,9 @@ const OnsiteInfoPage = ({ content }) => (
         <MDXProvider components={{ ...shortcodes, h2: TopicHeading }}>
           {content}
         </MDXProvider>
+        <p className={styles.mobileHelp}>
+          Questions? Email <a href="mailto:registration@opencompute.org?subject=2026%20OCP%20Global%20Summit%20onsite%20question">registration@opencompute.org</a>
+        </p>
       </article>
     </div>
   </div>
