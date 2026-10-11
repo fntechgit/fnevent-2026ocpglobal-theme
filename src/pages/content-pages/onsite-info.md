@@ -71,7 +71,7 @@ Need help getting there? The free ADA shuttle runs from the main entrance (San C
 
 OCP runs two free shuttles: an **ADA shuttle** around the venue and **hotel shuttles** to and from partner hotels.
 
-![Map of shuttle stops around the San Jose McEnery Convention Center: ADA shuttle pick-up/drop-off on San Carlos St at the main entrance and on Viola Ave at South Hall, ADA drop-off only on the Winchester (Hilton) side and on Market St near the Marriott, and hotel shuttles on S. Almaden Blvd (Hilton side)](ocp26g_shuttle-stops-map.png)
+![Map of shuttle stops around the San Jose McEnery Convention Center: ADA shuttle pick-up/drop-off on San Carlos St at the main entrance and on Viola Ave at South Hall, ADA drop-off only on Market St near the Marriott, and hotel shuttles on S. Almaden Blvd (Hilton side)](ocp26g_shuttle-stops-map.png)
 
 <a href="https://2026ocpglobal.fnvirtual.app/map/" target="_blank" rel="noopener noreferrer">VIEW THE FULL VENUE MAP</a>
 
@@ -91,7 +91,7 @@ OCP runs two free shuttles: an **ADA shuttle** around the venue and **hotel shut
 
 - **1.** San Carlos Street, in front of the main entrance (pick-up/drop-off)
 - **2.** Viola Avenue, near South Hall (pick-up/drop-off)
-- **4.** Market Street, by the convention center entrance near the Marriott (drop-off only)
+- **3.** Market Street, by the convention center entrance near the Marriott (drop-off only)
 - **Hall 3 rear doors** (during Expo Hall hours): inside the Expo Hall, by the ramp on the west side of the dock behind Hall 3
 
 ### Hotel shuttles (hotels ⇄ convention center)
