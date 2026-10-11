@@ -54,12 +54,15 @@ OCP provides two types of free shuttles.
 
 ##### Hours
 
-| Day | Hours |
-|---|---|
-| **Monday, Oct. 12** | 2:30 PM – 7:45 PM |
-| **Tuesday, Oct. 13** | 7:30 AM – 12:00 PM |
-| **Wednesday, Oct. 14** | 7:00 AM – 2:00 PM |
-| **Thursday, Oct. 15** | 7:00 AM – 2:00 PM |
+<table>
+  <thead><tr><th>Day</th><th>Hours</th></tr></thead>
+  <tbody>
+    <tr><td><strong>Monday, Oct. 12</strong></td><td>2:30 PM – 7:45 PM</td></tr>
+    <tr><td><strong>Tuesday, Oct. 13</strong></td><td>7:30 AM – 12:00 PM</td></tr>
+    <tr><td><strong>Wednesday, Oct. 14</strong></td><td>7:00 AM – 2:00 PM</td></tr>
+    <tr><td><strong>Thursday, Oct. 15</strong></td><td>7:00 AM – 2:00 PM</td></tr>
+  </tbody>
+</table>
 
 ##### Shuttle Stop Locations
 
@@ -75,20 +78,26 @@ Hotels ⇄ San Jose McEnery Convention Center
 
 #### Step 1: Find Your Hotel and Designated Color
 
-| 🔴 Red | 🔵 Blue | 🟢 Green | 🟡 Yellow |
-|---|---|---|---|
-| DoubleTree | Fairfield Airport | Homewood Suites | Residence Inn North |
-| | Sonesta *(wait at Fairfield Airport)* | Spark | Fairfield North *(wait at Residence Inn North)* |
-| | Holiday Inn | Residence Inn Airport | Courtyard |
-| | | SpringHill Suites *(wait at Residence Inn Airport)* | Hyatt House |
+<table>
+  <thead><tr><th>🔴 Red</th><th>🔵 Blue</th><th>🟢 Green</th><th>🟡 Yellow</th></tr></thead>
+  <tbody>
+    <tr><td>DoubleTree</td><td>Fairfield Airport</td><td>Homewood Suites</td><td>Residence Inn North</td></tr>
+    <tr><td></td><td>Sonesta <em>(wait at Fairfield Airport)</em></td><td>Spark</td><td>Fairfield North <em>(wait at Residence Inn North)</em></td></tr>
+    <tr><td></td><td>Holiday Inn</td><td>Residence Inn Airport</td><td>Courtyard</td></tr>
+    <tr><td></td><td></td><td>SpringHill Suites <em>(wait at Residence Inn Airport)</em></td><td>Hyatt House</td></tr>
+  </tbody>
+</table>
 
 #### Step 2: Check the Times
 
-| Day | Hotel → Convention Center | Convention Center → Hotel |
-|---|---|---|
-| **Monday, Oct 12** | 2:00 PM–7:00 PM (about every 30 minutes) | 2:00 PM–7:00 PM (about every 30 minutes) |
-| **Tuesday, Oct 13** and **Wednesday, Oct 14** | 7:00 AM–11:00 AM | 3:30 PM–7:30 PM |
-| **Thursday, Oct 15** | 7:00 AM–11:00 AM | 1:00 PM–5:00 PM *(fewer shuttles)* |
+<table>
+  <thead><tr><th>Day</th><th>Hotel → Convention Center</th><th>Convention Center → Hotel</th></tr></thead>
+  <tbody>
+    <tr><td><strong>Monday, Oct 12</strong></td><td>2:00 PM–7:00 PM (about every 30 minutes)</td><td>2:00 PM–7:00 PM (about every 30 minutes)</td></tr>
+    <tr><td><strong>Tuesday, Oct 13</strong> and <strong>Wednesday, Oct 14</strong></td><td>7:00 AM–11:00 AM</td><td>3:30 PM–7:30 PM</td></tr>
+    <tr><td><strong>Thursday, Oct 15</strong></td><td>7:00 AM–11:00 AM</td><td>1:00 PM–5:00 PM <em>(fewer shuttles)</em></td></tr>
+  </tbody>
+</table>
 
 #### Step 3: Board Your Shuttle
 
