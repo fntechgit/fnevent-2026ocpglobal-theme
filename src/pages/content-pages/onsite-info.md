@@ -113,6 +113,8 @@ OCP runs two free shuttles: an **ADA shuttle** around the venue and **hotel shut
 * **Thursday:** final day, with fewer shuttles. Leave extra time if you need your luggage.
 * **In a hurry?** Use a rideshare or taxi.
 
+  ![](ocp26g_hotel_shuttle_map.png)
+
 ## DURING THE SUMMIT
 
 * **Your badge gets you in.** Wear it at all times to access Summit functions. Thank you for your cooperation!
