@@ -8,16 +8,13 @@ We’re excited to see you in San Jose for the 2026 OCP Global Summit! Here’s 
 
 ## AT A GLANCE
 
-<table>
-  <thead><tr><th>What</th><th>Details</th></tr></thead>
-  <tbody>
-    <tr><td><strong>Badge pickup</strong></td><td>The Hub, near the main entrance of the San Jose McEnery Convention Center. <strong>Bring a photo ID.</strong></td></tr>
-    <tr><td><strong>Opening keynote</strong></td><td>Monday, Oct. 12 at 4:00 PM in South Hall. Pick up your badge early to avoid the line.</td></tr>
-    <tr><td><strong>Your badge</strong></td><td>Wear it at all times to access Summit functions.</td></tr>
-    <tr><td><strong>Parking</strong></td><td>Very limited, and the South Hall lot is closed this year. Use rideshare, transit, or a hotel shuttle.</td></tr>
-    <tr><td><strong>Registration</strong></td><td>The Summit is sold out. There is no onsite registration.</td></tr>
-  </tbody>
-</table>
+| What | Details |
+|---|---|
+| **Badge pickup** | The Hub, near the main entrance of the San Jose McEnery Convention Center. **Bring a photo ID.** |
+| **Opening keynote** | Monday, Oct. 12 at 4:00 PM in South Hall. Pick up your badge early to avoid the line. |
+| **Your badge** | Wear it at all times to access Summit functions. |
+| **Parking** | Very limited, and the South Hall lot is closed this year. Use rideshare, transit, or a hotel shuttle. |
+| **Registration** | The Summit is sold out. There is no onsite registration. |
 
 ## BEFORE YOU GO
 
@@ -34,15 +31,12 @@ The convention center has very little public parking, and it fills up quickly. U
 
 Badge pickup is in **The Hub**, near the main entrance of the convention center. **Bring a photo ID.**
 
-<table>
-  <thead><tr><th>Day</th><th>Hours</th></tr></thead>
-  <tbody>
-    <tr><td><strong>Monday, Oct. 12</strong></td><td>11:00 AM – 7:00 PM</td></tr>
-    <tr><td><strong>Tuesday, Oct. 13</strong></td><td>7:30 AM – 7:00 PM</td></tr>
-    <tr><td><strong>Wednesday, Oct. 14</strong></td><td>7:30 AM – 5:00 PM</td></tr>
-    <tr><td><strong>Thursday, Oct. 15</strong></td><td>7:30 AM – 4:00 PM</td></tr>
-  </tbody>
-</table>
+| Day | Hours |
+|---|---|
+| **Monday, Oct. 12** | 11:00 AM – 7:00 PM |
+| **Tuesday, Oct. 13** | 7:30 AM – 7:00 PM |
+| **Wednesday, Oct. 14** | 7:30 AM – 5:00 PM |
+| **Thursday, Oct. 15** | 7:30 AM – 4:00 PM |
 
 > 💡 **Tip:** Lines are longest on Monday right before the 4:00 PM keynote. Pick up your badge early.
 
@@ -50,13 +44,10 @@ Badge pickup is in **The Hub**, near the main entrance of the convention center.
 
 Keynotes are in **South Hall**, behind the main convention center building. It’s a 3–5 minute walk from the main entrance.
 
-<table>
-  <thead><tr><th>Day</th><th>Time</th></tr></thead>
-  <tbody>
-    <tr><td><strong>Monday, Oct. 12</strong></td><td>4:00 PM – 6:00 PM</td></tr>
-    <tr><td><strong>Tuesday, Oct. 13</strong></td><td>9:00 AM – 11:30 AM</td></tr>
-  </tbody>
-</table>
+| Day | Time |
+|---|---|
+| **Monday, Oct. 12** | 4:00 PM – 6:00 PM |
+| **Tuesday, Oct. 13** | 9:00 AM – 11:30 AM |
 
 Need help getting there? The free ADA shuttle runs from the main entrance (San Carlos St.) to South Hall; see [Getting around](#getting-around).
 
@@ -72,15 +63,12 @@ OCP runs two free shuttles: an **ADA shuttle** around the venue and **hotel shut
 
 ### ADA shuttle (around the venue)
 
-<table>
-  <thead><tr><th>Day</th><th>Hours</th></tr></thead>
-  <tbody>
-    <tr><td><strong>Monday, Oct. 12</strong></td><td>2:30 PM – 7:45 PM</td></tr>
-    <tr><td><strong>Tuesday, Oct. 13</strong></td><td>7:30 AM – 12:00 PM</td></tr>
-    <tr><td><strong>Wednesday, Oct. 14</strong></td><td>7:00 AM – 2:00 PM</td></tr>
-    <tr><td><strong>Thursday, Oct. 15</strong></td><td>7:00 AM – 2:00 PM</td></tr>
-  </tbody>
-</table>
+| Day | Hours |
+|---|---|
+| **Monday, Oct. 12** | 2:30 PM – 7:45 PM |
+| **Tuesday, Oct. 13** | 7:30 AM – 12:00 PM |
+| **Wednesday, Oct. 14** | 7:00 AM – 2:00 PM |
+| **Thursday, Oct. 15** | 7:00 AM – 2:00 PM |
 
 **Stops** (numbers match the map above):
 
@@ -95,26 +83,23 @@ OCP runs two free shuttles: an **ADA shuttle** around the venue and **hotel shut
 
 **1. Find your hotel’s color**
 
-<table>
-  <thead><tr><th>Color</th><th>Hotels</th></tr></thead>
-  <tbody>
-    <tr><td><strong>🔴 Red</strong></td><td>DoubleTree</td></tr>
-    <tr><td><strong>🔵 Blue</strong></td><td>Fairfield Airport<br/>Sonesta <em>(wait at Fairfield Airport)</em><br/>Holiday Inn</td></tr>
-    <tr><td><strong>🟢 Green</strong></td><td>Homewood Suites<br/>Spark<br/>Residence Inn Airport<br/>SpringHill Suites <em>(wait at Residence Inn Airport)</em></td></tr>
-    <tr><td><strong>🟡 Yellow</strong></td><td>Residence Inn North<br/>Fairfield North <em>(wait at Residence Inn North)</em><br/>Courtyard<br/>Hyatt House</td></tr>
-  </tbody>
-</table>
+| Color | Hotels |
+|---|---|
+| **🔴 Red** | DoubleTree |
+| **🔵 Blue** | Fairfield Airport<br/>Sonesta *(wait at Fairfield Airport)*<br/>Holiday Inn |
+| **🟢 Green** | Homewood Suites<br/>Spark<br/>Residence Inn Airport<br/>SpringHill Suites *(wait at Residence Inn Airport)* |
+| **🟡 Yellow** | Residence Inn North<br/>Fairfield North *(wait at Residence Inn North)*<br/>Courtyard<br/>Hyatt House |
 
 **2. Check the times**
 
-<table>
-  <thead><tr><th>Day</th><th>Hotel → Convention Center</th><th>Convention Center → Hotel</th></tr></thead>
-  <tbody>
-    <tr><td><strong>Monday, Oct. 12</strong></td><td data-label="Hotel → Convention Center">2:00 PM – 7:00 PM <em>(about every 30 min)</em></td><td data-label="Convention Center → Hotel">2:00 PM – 7:00 PM <em>(about every 30 min)</em></td></tr>
-    <tr><td><strong>Tuesday, Oct. 13</strong> &amp; <strong>Wednesday, Oct. 14</strong></td><td data-label="Hotel → Convention Center">7:00 AM – 11:00 AM</td><td data-label="Convention Center → Hotel">3:30 PM – 7:30 PM</td></tr>
-    <tr><td><strong>Thursday, Oct. 15</strong></td><td data-label="Hotel → Convention Center">7:00 AM – 11:00 AM</td><td data-label="Convention Center → Hotel">1:00 PM – 5:00 PM <em>(fewer shuttles)</em></td></tr>
-  </tbody>
-</table>
+| When | Hours |
+|---|---|
+| **Monday, Oct. 12** · Hotel → Convention Center | 2:00 PM – 7:00 PM *(about every 30 min)* |
+| **Monday, Oct. 12** · Convention Center → Hotel | 2:00 PM – 7:00 PM *(about every 30 min)* |
+| **Tuesday, Oct. 13** & **Wednesday, Oct. 14** · Hotel → Convention Center | 7:00 AM – 11:00 AM |
+| **Tuesday, Oct. 13** & **Wednesday, Oct. 14** · Convention Center → Hotel | 3:30 PM – 7:30 PM |
+| **Thursday, Oct. 15** · Hotel → Convention Center | 7:00 AM – 11:00 AM |
+| **Thursday, Oct. 15** · Convention Center → Hotel | 1:00 PM – 5:00 PM *(fewer shuttles)* |
 
 **3. Board your shuttle**
 
