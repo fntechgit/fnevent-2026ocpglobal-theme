@@ -123,7 +123,7 @@ OCP runs two free shuttles: an **ADA shuttle** around the venue and **hotel shut
 * **Need a small meeting space?** Book a four-person OCP Meeting Pod [here](https://book.zenspace.io/ocp/global-summit-2026/).
   Meeting pods are located in the West Lobby of the San Jose McEnery Convention Center on the Concourse Level (near the Hilton).
   Cost: $500 (USD) for two hours.
-* **Get More from OCP Membership:** Interested in Membership? [Click here](https://community.opencompute.org/web/#/flowlink/JNFueMO) to unlock your benefits and help shape what's next.
+* **Get More from OCP Membership:** Interested in Membership? [Click here](https://opencomputemx.netlify.app) to unlock your benefits and help shape what's next.
 
 ### Schedule
 
