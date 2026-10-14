@@ -2545,10 +2545,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.1.71":
-  version "2.1.71"
-  resolved "https://registry.npmjs.org/@openeventkit/event-site/-/event-site-2.1.71.tgz#2d073e64070fb87c52668b2987a0ce4c19d57b0c"
-  integrity sha512-k2ktw6FYXxiv0BixeHSzkPldsyXoumWk/aEzG4cJkDfuwRxBFPsQY5fj9eXjrOt/GntrhyM11D+O86lQXtD79w==
+"@openeventkit/event-site@2.1.72":
+  version "2.1.72"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.72.tgz#a1657feaaa5d63ba52d991253023288b404c33c3"
+  integrity sha512-iMAlwia5hRtsKnhJwHuDuokmJVflHROYy2vZFSdpIIrZgtcHwqQSHGNJn3pKTCxnNtw3KfUK7/ADQ80XxI2bFA==
   dependencies:
     "@emotion/server" "^11.11.0"
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
@@ -2672,7 +2672,7 @@
     remark-gfm "^4.0.1"
     remark-gfm-mdx2 "npm:remark-gfm@^3.0.1"
     sass "^1.49.9"
-    schedule-filter-widget "3.0.7"
+    schedule-filter-widget "3.0.8"
     simple-chat-widget "^1.0.31"
     simple-oauth2 "^4.1.0"
     slick-carousel "^1.8.1"
@@ -19170,10 +19170,10 @@ saxes@^6.0.0:
   dependencies:
     xmlchars "^2.2.0"
 
-schedule-filter-widget@3.0.7:
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/schedule-filter-widget/-/schedule-filter-widget-3.0.7.tgz#2b90594d0ce4305d73416838cd093392393b7a38"
-  integrity sha512-+DjVKSxRiI3Sw0ilvAdbZWbceL/XT0GTAJ6yTI/BJaVMPS3HawchHd0xga9fg7ZR0sELpIHstWZBRfnHks0PYg==
+schedule-filter-widget@3.0.8:
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/schedule-filter-widget/-/schedule-filter-widget-3.0.8.tgz#5c7e2b82cd9b1067d309d358e760df3b580f3a73"
+  integrity sha512-6u+REyLVWDnjaLr8UO8raF7TAFr3D3u9+BfEmgGAcSt9t0/+Z7TuBOtOIPBIjnnmsqhWfnpe7Y9HdmFVu24YSQ==
   dependencies:
     crypto-js "^4.1.1"
     react-spring "^9.1.2"
